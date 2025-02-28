@@ -1,0 +1,1273 @@
+{
+  "search_metadata": {
+    "id": "67c19bca8b64457001e24687",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/baeb1c4a05250e3d/67c19bca8b64457001e24687.json",
+    "created_at": "2025-02-28 11:19:38 UTC",
+    "processed_at": "2025-02-28 11:19:38 UTC",
+    "google_hotels_url": "https://www.google.com/_/TravelFrontendUi/data/batchexecute?rpcids=AtySUc&source-path=/travel/search&hl=tr&gl=tr&rt=c&soc-app=162&soc-platform=1&soc-device=1",
+    "raw_html_file": "https://serpapi.com/searches/baeb1c4a05250e3d/67c19bca8b64457001e24687.html",
+    "prettify_html_file": "https://serpapi.com/searches/baeb1c4a05250e3d/67c19bca8b64457001e24687.prettify",
+    "total_time_taken": 1.42
+  },
+  "search_parameters": {
+    "engine": "google_hotels",
+    "q": "Ankara",
+    "gl": "tr",
+    "hl": "tr",
+    "currency": "TRY",
+    "check_in_date": "2025-03-01",
+    "check_out_date": "2025-03-05",
+    "adults": 2,
+    "children": 0,
+    "property_token": "ChkIg5azoZyhkvmmARoML2cvMWhjM2o2anhjEAE"
+  },
+  "type": "hotel",
+  "name": "Ankara Koza Suite Hotel",
+  "description": "İş yerleri ve konutların bulunduğu bir sokakta yer alan bu rahat otel; Atakule'ye 3 km, 24.000 kişilik Kocatepe Camii'ne 6 km ve O-20 otoyoluna 9 km mesafededir.\nSade ve samimi dekorasyonlu odalarda ücretsiz Wi-Fi, düz ekran TV, mini buzdolabı ve çay/kahve makinesi sunulur. Üst sınıf odalarda çekyat yer alır.\nOtopark ücretsizdir. Diğer imkanlar arasında açık büfe kahvaltı ve uluslararası lezzetler sunan bir restoran yer alır.",
+  "link": "http://www.kozaotel.com.tr/",
+  "property_token": "ChkIg5azoZyhkvmmARoML2cvMWhjM2o2anhjEAE",
+  "address": "koza suite hotel, Büyükesat, Koza Sk. No:52, 06700 Çankaya/Ankara, Türkiye",
+  "phone": "+90 312 446 60 67",
+  "phone_link": "tel:+903124466067",
+  "gps_coordinates": {
+    "latitude": 39.891827299999996,
+    "longitude": 32.8777776
+  },
+  "check_in_time": "14:00",
+  "check_out_time": "12:00",
+  "rate_per_night": {
+    "lowest": "₺2.038",
+    "extracted_lowest": 2038,
+    "before_taxes_fees": "₺1.820",
+    "extracted_before_taxes_fees": 1820
+  },
+  "total_rate": {
+    "lowest": "₺8.153",
+    "extracted_lowest": 8153,
+    "before_taxes_fees": "₺7.279",
+    "extracted_before_taxes_fees": 7279
+  },
+  "featured_prices": [
+    {
+      "source": "Agoda",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABAcGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYASABEgL1WfD_BwE&sig=AOD64_2ujfOVy5ICak87buzHc4qnBCzOww&adurl",
+      "logo": "https://www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+      "rooms": [
+        {
+          "name": "Ekonomik Çift Kişilik veya İki Yataklı Oda",
+          "images": [
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_xCeKT1dPaTgdcHxdw5EUy_GvIdIscjyErP5-MZFy8D5Vxe2fMtadLYSgWMKZoe_oZ8xdxxhaPjj3R6hq6dBTpAGET2D19ZmL8kj_XmxEk7cXUtHkKvlg3SVQA1u6jLPvQHX2i3JtYpzV-BI-2ujiooubWujEFgW3MxN0U2oaLo5H6YVfliyso3kW0IuJOiDjj1ZSw1omLIof7wjUicRLOSsVOErEe3Xwo"
+          ],
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABAdGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYASACEgIKZPD_BwE&sig=AOD64_1onCLyafDEmGzimbKNY2WB2zBoJg&adurl",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺1.863",
+            "extracted_lowest": 1863,
+            "before_taxes_fees": "₺1.663",
+            "extracted_before_taxes_fees": 1663
+          },
+          "total_rate": {
+            "lowest": "₺7.452",
+            "extracted_lowest": 7452,
+            "before_taxes_fees": "₺6.653",
+            "extracted_before_taxes_fees": 6653
+          }
+        },
+        {
+          "name": "Executive Süit",
+          "images": [
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_zBbVmqWzvIYJzoSzS3FnWvJTvdqHl1e4asik0EwFq33WW8cffIllHd18yvAHusDm1Bmk1dP0o3-_gbSPy8qvtieNNvwisxapXX1RGOVfL38mNNqfWBKrMZnaXRfD3DF6NbYItT3dXFMG9Mt41pUpeCuslOOVgjMjbupKA"
+          ],
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABAeGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYASADEgIVlvD_BwE&sig=AOD64_07ccohqITAvZ2IECKsiKTgtt-qnA&adurl",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺4.085",
+            "extracted_lowest": 4085,
+            "before_taxes_fees": "₺3.648",
+            "extracted_before_taxes_fees": 3648
+          },
+          "total_rate": {
+            "lowest": "₺16.342",
+            "extracted_lowest": 16342,
+            "before_taxes_fees": "₺14.591",
+            "extracted_before_taxes_fees": 14591
+          }
+        }
+      ],
+      "num_guests": 2,
+      "rate_per_night": {
+        "lowest": "₺1.744",
+        "extracted_lowest": 1744,
+        "before_taxes_fees": "₺1.558",
+        "extracted_before_taxes_fees": 1558
+      },
+      "total_rate": {
+        "lowest": "₺6.978",
+        "extracted_lowest": 6978,
+        "before_taxes_fees": "₺6.230",
+        "extracted_before_taxes_fees": 6230
+      }
+    },
+    {
+      "source": "Expedia.dk",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABATGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYAiABEgLKqfD_BwE&sig=AOD64_2S50TPEuAA56bPxaz0h9zSFbHu7w&adurl",
+      "logo": "https://www.gstatic.com/travel-hotels/branding/ac238c97-1652-4830-8da8-bb8d8883af88.png",
+      "rooms": [
+        {
+          "name": "Economy Tek Büyük Yataklı Oda, 1 Yatak Odası, Sigara İçilebilir",
+          "images": [
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_y7-9q8cxkc-crWn6DfleIRtkRuzI7HKJd1pev2Q02K_pthLlCIueBMk6jNxCHfK-uj2GRPdVr21aSaxHzCzleqZ6XMyhEMzm9_gxZJiIDZcyWVdb5L8ziwbZ9OiC1AxEk51f89xfZ8AaohKk4yYPV8fgD46zFdRQ",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_wwPl321FML1r6YqO9QlPXzYxeNXiHJo5dnBPTatK-l0bzKK-BeHtN-xFGB_I8w9dxrryKYaekFh9rnbdtKSi5e8UmNL-SstjO80xziMT4OuQ8ykg4__KKU6e4vFIgdMMaCT6CD6rINpKExwKP6Bx2O93h-Xr2K"
+          ],
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABAUGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYAiACEgI4oPD_BwE&sig=AOD64_0g10gM4X9x8sigWJ6vAq0c2HVXcw&adurl",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺2.395",
+            "extracted_lowest": 2395,
+            "before_taxes_fees": "₺2.137",
+            "extracted_before_taxes_fees": 2137
+          },
+          "total_rate": {
+            "lowest": "₺9.579",
+            "extracted_lowest": 9579,
+            "before_taxes_fees": "₺8.546",
+            "extracted_before_taxes_fees": 8546
+          }
+        },
+        {
+          "name": "Standart Oda",
+          "images": [
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_xTfN4da50_MHhRJgnpcpBBVJFEnRhXoYZAaDi1pWNH1s-w4nCAb_mlXPvuDuY_eWznyIdw0UJwgX5zxVRFD3iC06G5ATi2Ld3ng8tJKMydegJNSwV8UTv440c5UOWo16f1J3P3vLQmQry_gZWCjMNfncVEKUzf",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_wxL93pnTIrRtRrVaRIwe1xHS3Aq8k2WYgRS39Pn6MMRetvt1PG3JIjqKYRwoOUcpVZq3Pfj2fegZ8x4w9-Z1BWRwj6GBvSbq9AXyzMS83jKu45ktt1naEZagk4hc5UgByw6juCk9Utpml0n39yh1cf2HEx40vWpA"
+          ],
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABAWGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYAiAEEgJZTfD_BwE&sig=AOD64_2iq43mQ3IOTyu6fO45gxrYmXa9eQ&adurl",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺4.034",
+            "extracted_lowest": 4034,
+            "before_taxes_fees": "₺3.598",
+            "extracted_before_taxes_fees": 3598
+          },
+          "total_rate": {
+            "lowest": "₺16.135",
+            "extracted_lowest": 16135,
+            "before_taxes_fees": "₺14.391",
+            "extracted_before_taxes_fees": 14391
+          }
+        },
+        {
+          "name": "Executive Süit",
+          "images": [
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_zBmRx_6-odOj1Zo4qzL04Eo7MIg7HyeyMHQnjr5SyWBKpPMcwhvLzRJRlwCI4ib4Rc6Ku_CAYjvyPo3cF05z5d6gETTPXPZlAmX1QB_OehItL27X_e8Uvf7zIo_hXxOe7AQXLsXh7aKavVNEEYFZM7OWLDz6UcKA",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_yFHQVsSvnIjeFc_bvgRfNAnNSTt9pK7zO3tNDUFaQuNGXPSJxRw06yI91SROiXdM5ChjNyjQUaWtT-mLvV3fInXeLUZ4zAkOvSWdmEMosrtrkn0z_ryYkQAqT5sDF9df8W_haB_iZdw-O4vENFVaOl1kXsvKZN",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_zH-JpruAHEBy-SOu1qYN7UfD3GYvyO5jMhpBeIDnklFDeDsdk7rYh-KnS83wxgHMcrdb4jJDKcDGQ3LENiaKoALEwZCBf2pmBXTp6JSAP4MT_tNknPn5W6LEQ8Td7Swq39KsEW7Ewd96-CPv8iFKSViw4fgnlI",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_y1w6T12y8spnkZMW9MHX39qPDxFwXC_TwsSkKqdCfBUkQXscVq-AtGbjXSq2YJpSWK_vEgLERNyGK-jTLCZbERxwINREpMosA0sRyLFNamv00zjd9QYO4dinJVepmmL7X8nhW97qD73iCxR8NInZZ4RxhM1uz2",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_xgfl1-GJC4TcQavuco3Kq73_COT_MkvCiWAG1iSW3zjyY_-FENYz5ioLLlSbkwaH-WdLEdPffr4Te_rrLW2R-62H24evs9UF04ukdzAhXqqNU9wnzfT63iTOjb_7iMWx1wBI4J-GE6HIhdZa4o1sRwTQuLZ1tOWA"
+          ],
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABAYGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYAiAGEgKbEvD_BwE&sig=AOD64_36sN3NTeaHsnszLq90_dNb2k5csg&adurl",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺5.588",
+            "extracted_lowest": 5588,
+            "before_taxes_fees": "₺4.986",
+            "extracted_before_taxes_fees": 4986
+          },
+          "total_rate": {
+            "lowest": "₺22.354",
+            "extracted_lowest": 22354,
+            "before_taxes_fees": "₺19.943",
+            "extracted_before_taxes_fees": 19943
+          }
+        },
+        {
+          "name": "Standart Üç Kişilik Oda",
+          "images": [
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_ys_eXqqvpARhmPmLz94_gXNrL60dH1haFznvVtEf9vTiF5GuY4E1DUd_yaILgykawahwffl_rxRDW1QbM4USyDzsGhGO8dvmkC3P6h2GOnh78fUVTLbXe3avsV5sIczrLAWuXsbsMmzG8qDfHEUl_plf5CCVhB"
+          ],
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABAaGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYAiAIEgLW6vD_BwE&sig=AOD64_09Nj2gExRBYL2NRJW6qM55pKdkHg&adurl",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺6.040",
+            "extracted_lowest": 6040,
+            "before_taxes_fees": "₺5.388",
+            "extracted_before_taxes_fees": 5388
+          },
+          "total_rate": {
+            "lowest": "₺24.161",
+            "extracted_lowest": 24161,
+            "before_taxes_fees": "₺21.550",
+            "extracted_before_taxes_fees": 21550
+          }
+        }
+      ],
+      "num_guests": 2,
+      "rate_per_night": {
+        "lowest": "₺2.395",
+        "extracted_lowest": 2395,
+        "before_taxes_fees": "₺2.137",
+        "extracted_before_taxes_fees": 2137
+      },
+      "total_rate": {
+        "lowest": "₺9.579",
+        "extracted_lowest": 9579,
+        "before_taxes_fees": "₺8.546",
+        "extracted_before_taxes_fees": 8546
+      }
+    },
+    {
+      "source": "Hotels.com",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABABGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYAyABEgJV-vD_BwE&sig=AOD64_27mLxoOxy-KIHyUydNkKSKOGfkKA&adurl",
+      "logo": "https://www.gstatic.com/travel-hotels/branding/f358dd45-ebd1-4af8-988d-d53154b73975.png",
+      "rooms": [
+        {
+          "name": "Economy Tek Büyük Yataklı Oda, 1 Yatak Odası, Sigara İçilebilir",
+          "images": [
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_y7-9q8cxkc-crWn6DfleIRtkRuzI7HKJd1pev2Q02K_pthLlCIueBMk6jNxCHfK-uj2GRPdVr21aSaxHzCzleqZ6XMyhEMzm9_gxZJiIDZcyWVdb5L8ziwbZ9OiC1AxEk51f89xfZ8AaohKk4yYPV8fgD46zFdRQ",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_wwPl321FML1r6YqO9QlPXzYxeNXiHJo5dnBPTatK-l0bzKK-BeHtN-xFGB_I8w9dxrryKYaekFh9rnbdtKSi5e8UmNL-SstjO80xziMT4OuQ8ykg4__KKU6e4vFIgdMMaCT6CD6rINpKExwKP6Bx2O93h-Xr2K"
+          ],
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABACGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYAyACEgL_W_D_BwE&sig=AOD64_0FM_NLep_-hb_QwjXlGqXtdwybsA&adurl",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺2.410",
+            "extracted_lowest": 2410,
+            "before_taxes_fees": "₺2.152",
+            "extracted_before_taxes_fees": 2152
+          },
+          "total_rate": {
+            "lowest": "₺9.642",
+            "extracted_lowest": 9642,
+            "before_taxes_fees": "₺8.609",
+            "extracted_before_taxes_fees": 8609
+          }
+        },
+        {
+          "name": "Standart Oda",
+          "images": [
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_xTfN4da50_MHhRJgnpcpBBVJFEnRhXoYZAaDi1pWNH1s-w4nCAb_mlXPvuDuY_eWznyIdw0UJwgX5zxVRFD3iC06G5ATi2Ld3ng8tJKMydegJNSwV8UTv440c5UOWo16f1J3P3vLQmQry_gZWCjMNfncVEKUzf",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_wxL93pnTIrRtRrVaRIwe1xHS3Aq8k2WYgRS39Pn6MMRetvt1PG3JIjqKYRwoOUcpVZq3Pfj2fegZ8x4w9-Z1BWRwj6GBvSbq9AXyzMS83jKu45ktt1naEZagk4hc5UgByw6juCk9Utpml0n39yh1cf2HEx40vWpA"
+          ],
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABAEGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYAyAEEgLEkPD_BwE&sig=AOD64_3zi6yx5H0KUWPu0Gu6DVwPFuHlpg&adurl",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺4.070",
+            "extracted_lowest": 4070,
+            "before_taxes_fees": "₺3.634",
+            "extracted_before_taxes_fees": 3634
+          },
+          "total_rate": {
+            "lowest": "₺16.280",
+            "extracted_lowest": 16280,
+            "before_taxes_fees": "₺14.535",
+            "extracted_before_taxes_fees": 14535
+          }
+        },
+        {
+          "name": "Executive Süit",
+          "images": [
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_zBmRx_6-odOj1Zo4qzL04Eo7MIg7HyeyMHQnjr5SyWBKpPMcwhvLzRJRlwCI4ib4Rc6Ku_CAYjvyPo3cF05z5d6gETTPXPZlAmX1QB_OehItL27X_e8Uvf7zIo_hXxOe7AQXLsXh7aKavVNEEYFZM7OWLDz6UcKA",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_yFHQVsSvnIjeFc_bvgRfNAnNSTt9pK7zO3tNDUFaQuNGXPSJxRw06yI91SROiXdM5ChjNyjQUaWtT-mLvV3fInXeLUZ4zAkOvSWdmEMosrtrkn0z_ryYkQAqT5sDF9df8W_haB_iZdw-O4vENFVaOl1kXsvKZN",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_zH-JpruAHEBy-SOu1qYN7UfD3GYvyO5jMhpBeIDnklFDeDsdk7rYh-KnS83wxgHMcrdb4jJDKcDGQ3LENiaKoALEwZCBf2pmBXTp6JSAP4MT_tNknPn5W6LEQ8Td7Swq39KsEW7Ewd96-CPv8iFKSViw4fgnlI",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_y1w6T12y8spnkZMW9MHX39qPDxFwXC_TwsSkKqdCfBUkQXscVq-AtGbjXSq2YJpSWK_vEgLERNyGK-jTLCZbERxwINREpMosA0sRyLFNamv00zjd9QYO4dinJVepmmL7X8nhW97qD73iCxR8NInZZ4RxhM1uz2",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_xgfl1-GJC4TcQavuco3Kq73_COT_MkvCiWAG1iSW3zjyY_-FENYz5ioLLlSbkwaH-WdLEdPffr4Te_rrLW2R-62H24evs9UF04ukdzAhXqqNU9wnzfT63iTOjb_7iMWx1wBI4J-GE6HIhdZa4o1sRwTQuLZ1tOWA"
+          ],
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABAGGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYAyAGEgIW5_D_BwE&sig=AOD64_1N0Kuy5Iz6CBKwd7mtnHdVvt3Vqg&adurl",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺5.624",
+            "extracted_lowest": 5624,
+            "before_taxes_fees": "₺5.022",
+            "extracted_before_taxes_fees": 5022
+          },
+          "total_rate": {
+            "lowest": "₺22.497",
+            "extracted_lowest": 22497,
+            "before_taxes_fees": "₺20.086",
+            "extracted_before_taxes_fees": 20086
+          }
+        },
+        {
+          "name": "Standart Üç Kişilik Oda",
+          "images": [
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_ys_eXqqvpARhmPmLz94_gXNrL60dH1haFznvVtEf9vTiF5GuY4E1DUd_yaILgykawahwffl_rxRDW1QbM4USyDzsGhGO8dvmkC3P6h2GOnh78fUVTLbXe3avsV5sIczrLAWuXsbsMmzG8qDfHEUl_plf5CCVhB"
+          ],
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABAIGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYAyAIEgLmmvD_BwE&sig=AOD64_0wtFhoSqsLMdQAErrBJ9nuyYZLlQ&adurl",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺6.092",
+            "extracted_lowest": 6092,
+            "before_taxes_fees": "₺5.439",
+            "extracted_before_taxes_fees": 5439
+          },
+          "total_rate": {
+            "lowest": "₺24.369",
+            "extracted_lowest": 24369,
+            "before_taxes_fees": "₺21.758",
+            "extracted_before_taxes_fees": 21758
+          }
+        }
+      ],
+      "num_guests": 2,
+      "rate_per_night": {
+        "lowest": "₺2.410",
+        "extracted_lowest": 2410,
+        "before_taxes_fees": "₺2.152",
+        "extracted_before_taxes_fees": 2152
+      },
+      "total_rate": {
+        "lowest": "₺9.642",
+        "extracted_lowest": 9642,
+        "before_taxes_fees": "₺8.609",
+        "extracted_before_taxes_fees": 8609
+      }
+    },
+    {
+      "source": "Travelocity.com",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABAKGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYBCABEgIPefD_BwE&sig=AOD64_1QhEJ4WEiYeN00SYz1tDjuk2fsTg&adurl",
+      "logo": "https://www.gstatic.com/travel-hotels/branding/icon_185.png",
+      "rooms": [
+        {
+          "name": "Economy Tek Büyük Yataklı Oda, 1 Yatak Odası, Sigara İçilebilir",
+          "images": [
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_y7-9q8cxkc-crWn6DfleIRtkRuzI7HKJd1pev2Q02K_pthLlCIueBMk6jNxCHfK-uj2GRPdVr21aSaxHzCzleqZ6XMyhEMzm9_gxZJiIDZcyWVdb5L8ziwbZ9OiC1AxEk51f89xfZ8AaohKk4yYPV8fgD46zFdRQ",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_wwPl321FML1r6YqO9QlPXzYxeNXiHJo5dnBPTatK-l0bzKK-BeHtN-xFGB_I8w9dxrryKYaekFh9rnbdtKSi5e8UmNL-SstjO80xziMT4OuQ8ykg4__KKU6e4vFIgdMMaCT6CD6rINpKExwKP6Bx2O93h-Xr2K"
+          ],
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABALGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYBCACEgJDHfD_BwE&sig=AOD64_31QjgNJ4nj6DvUQhMuKgxhjusb3Q&adurl",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺2.395",
+            "extracted_lowest": 2395,
+            "before_taxes_fees": "₺2.137",
+            "extracted_before_taxes_fees": 2137
+          },
+          "total_rate": {
+            "lowest": "₺9.579",
+            "extracted_lowest": 9579,
+            "before_taxes_fees": "₺8.546",
+            "extracted_before_taxes_fees": 8546
+          }
+        },
+        {
+          "name": "Standart Oda",
+          "images": [
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_xTfN4da50_MHhRJgnpcpBBVJFEnRhXoYZAaDi1pWNH1s-w4nCAb_mlXPvuDuY_eWznyIdw0UJwgX5zxVRFD3iC06G5ATi2Ld3ng8tJKMydegJNSwV8UTv440c5UOWo16f1J3P3vLQmQry_gZWCjMNfncVEKUzf",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_wxL93pnTIrRtRrVaRIwe1xHS3Aq8k2WYgRS39Pn6MMRetvt1PG3JIjqKYRwoOUcpVZq3Pfj2fegZ8x4w9-Z1BWRwj6GBvSbq9AXyzMS83jKu45ktt1naEZagk4hc5UgByw6juCk9Utpml0n39yh1cf2HEx40vWpA"
+          ],
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABANGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYBCAEEgL1RvD_BwE&sig=AOD64_0YCKtkGVIj-mU9tDSZPWPZIKlHGA&adurl",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺4.034",
+            "extracted_lowest": 4034,
+            "before_taxes_fees": "₺3.598",
+            "extracted_before_taxes_fees": 3598
+          },
+          "total_rate": {
+            "lowest": "₺16.135",
+            "extracted_lowest": 16135,
+            "before_taxes_fees": "₺14.391",
+            "extracted_before_taxes_fees": 14391
+          }
+        },
+        {
+          "name": "Executive Süit",
+          "images": [
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_zBmRx_6-odOj1Zo4qzL04Eo7MIg7HyeyMHQnjr5SyWBKpPMcwhvLzRJRlwCI4ib4Rc6Ku_CAYjvyPo3cF05z5d6gETTPXPZlAmX1QB_OehItL27X_e8Uvf7zIo_hXxOe7AQXLsXh7aKavVNEEYFZM7OWLDz6UcKA",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_yFHQVsSvnIjeFc_bvgRfNAnNSTt9pK7zO3tNDUFaQuNGXPSJxRw06yI91SROiXdM5ChjNyjQUaWtT-mLvV3fInXeLUZ4zAkOvSWdmEMosrtrkn0z_ryYkQAqT5sDF9df8W_haB_iZdw-O4vENFVaOl1kXsvKZN",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_zH-JpruAHEBy-SOu1qYN7UfD3GYvyO5jMhpBeIDnklFDeDsdk7rYh-KnS83wxgHMcrdb4jJDKcDGQ3LENiaKoALEwZCBf2pmBXTp6JSAP4MT_tNknPn5W6LEQ8Td7Swq39KsEW7Ewd96-CPv8iFKSViw4fgnlI",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_y1w6T12y8spnkZMW9MHX39qPDxFwXC_TwsSkKqdCfBUkQXscVq-AtGbjXSq2YJpSWK_vEgLERNyGK-jTLCZbERxwINREpMosA0sRyLFNamv00zjd9QYO4dinJVepmmL7X8nhW97qD73iCxR8NInZZ4RxhM1uz2",
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_xgfl1-GJC4TcQavuco3Kq73_COT_MkvCiWAG1iSW3zjyY_-FENYz5ioLLlSbkwaH-WdLEdPffr4Te_rrLW2R-62H24evs9UF04ukdzAhXqqNU9wnzfT63iTOjb_7iMWx1wBI4J-GE6HIhdZa4o1sRwTQuLZ1tOWA"
+          ],
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABAPGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYBCAGEgI3w_D_BwE&sig=AOD64_1hViPonL41vB55VYZpI1LGyNsejA&adurl",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺5.588",
+            "extracted_lowest": 5588,
+            "before_taxes_fees": "₺4.986",
+            "extracted_before_taxes_fees": 4986
+          },
+          "total_rate": {
+            "lowest": "₺22.354",
+            "extracted_lowest": 22354,
+            "before_taxes_fees": "₺19.943",
+            "extracted_before_taxes_fees": 19943
+          }
+        },
+        {
+          "name": "Standart Üç Kişilik Oda",
+          "images": [
+            "https://lh3.googleusercontent.com/hrppk/ANjXD_ys_eXqqvpARhmPmLz94_gXNrL60dH1haFznvVtEf9vTiF5GuY4E1DUd_yaILgykawahwffl_rxRDW1QbM4USyDzsGhGO8dvmkC3P6h2GOnh78fUVTLbXe3avsV5sIczrLAWuXsbsMmzG8qDfHEUl_plf5CCVhB"
+          ],
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwigpeXbn-aLAxWZoVoFHUgMDN0YABARGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIoKXl25_miwMVmaFaBR1IDAzdEAoYBCAIEgJ6WPD_BwE&sig=AOD64_1xSWZcYPf5gBLgXLupTiqqr_huaQ&adurl",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺6.040",
+            "extracted_lowest": 6040,
+            "before_taxes_fees": "₺5.388",
+            "extracted_before_taxes_fees": 5388
+          },
+          "total_rate": {
+            "lowest": "₺24.161",
+            "extracted_lowest": 24161,
+            "before_taxes_fees": "₺21.550",
+            "extracted_before_taxes_fees": 21550
+          }
+        }
+      ],
+      "num_guests": 2,
+      "rate_per_night": {
+        "lowest": "₺2.395",
+        "extracted_lowest": 2395,
+        "before_taxes_fees": "₺2.137",
+        "extracted_before_taxes_fees": 2137
+      },
+      "total_rate": {
+        "lowest": "₺9.579",
+        "extracted_lowest": 9579,
+        "before_taxes_fees": "₺8.546",
+        "extracted_before_taxes_fees": 8546
+      }
+    }
+  ],
+  "prices": [
+    {
+      "source": "Agoda",
+      "link": "https://www.google.com/travel/clk?pc=AA80OsyHCoQQcynZbkYcQOzVwTljMOR14yMQO5Fy4Xv4EQy12IvG3MoPqING7PmoPBtFmgkjSd5GDmMcuDVyYwVGQrqCeaSDaq4CYkQVDoDm_wcaaw1102n1RmZ3l3ZSbCnNC2-APA&pcurl=https://www.agoda.com/tr-tr/partners/partnersearch.aspx?site_id%3D1917614%26CkInDay%3D01%26CkInMonth%3D03%26CkInYear%3D2025%26CkOutDay%3D05%26campaignid%3D%26CkOutMonth%3D03%26CkOutYear%3D2025%26SearchDateType%3Dselected%26NumberOfAdults%3D2%26LT%3D1%26NumberOfChildren%3D0%26childages%3D%26NumberOfRooms%3D1%26gsite%3Dlocaluniversal%26los%3D4%26PartnerCurrency%3DEUR%26hid%3D316022%26RoomID%3D%26masterRoomId%3D485870067%26PriceTax%3D747.32%26PriceTotal%3D6977.63%26RatePlan%3D%26UserCountry%3DUS%26Currency%3DTRY%26UserDevice%3Ddesktop%26Verif%3Dfalse%26rr%3DUS_pull%26audience_list%3D%26mcid%3D28033%26booking_source%3Dcpc%26adType%3D0%26mpt%3Dby9haEdCektCVnlJWkNiTHRqRFhCNE9DQndoMHYrSkFHWWRRUFZyYlFjbVRmemRFRCtmSmxGRT0%26original_rr%3DUS_pull&ap=1",
+      "logo": "https://www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+      "num_guests": 2,
+      "rate_per_night": {
+        "lowest": "₺1.744",
+        "extracted_lowest": 1744,
+        "before_taxes_fees": "₺1.558",
+        "extracted_before_taxes_fees": 1558
+      },
+      "total_rate": {
+        "lowest": "₺6.978",
+        "extracted_lowest": 6978,
+        "before_taxes_fees": "₺6.230",
+        "extracted_before_taxes_fees": 6230
+      }
+    },
+    {
+      "source": "KAYAK.com",
+      "link": "https://www.google.com/travel/clk?pc=AA80Osx469f6mWvr3Rn41LWtkrevrp4l1a3tBrbWRcyKUK-1Hf6JFleHjqeRuQSPYvDuc5_uoAh2h213naNO_YkmOKq4UKAPrEIZrl4-1CdQIhdb5VCBYFk86bHoGdgnQ0IQiA&pcurl=https://www.kayak.com/semi/ha/hotel_ads/434887/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D434887%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2025-03-01%26co%3D2025-03-05%26gs%3Dlocaluniversal%26l%3D4%26pc%3DUSD%26rid%3D%26pdtax%3D873.76%26pdtotal%3D8153.11%26rpid%3D%26uc%3DUS%26ucuc%3DTRY%26d%3Ddesktop%26lc%3Dtr%26v%3Dfalse%26rrid%3D%26k_pc%3D~QUdPREFIUEE%26k_rt%3D%26k_sid%3DqKBEF6udOe%26k_kct%3D1740738166%26k_gct%3D1740738284%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dus%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&ap=1",
+      "logo": "https://www.gstatic.com/travel-hotels/branding/6417d44c-c676-4b16-8ae9-f3bbeaa51899.png",
+      "num_guests": 2,
+      "rate_per_night": {
+        "lowest": "₺2.038",
+        "extracted_lowest": 2038,
+        "before_taxes_fees": "₺1.820",
+        "extracted_before_taxes_fees": 1820
+      },
+      "total_rate": {
+        "lowest": "₺8.153",
+        "extracted_lowest": 8153,
+        "before_taxes_fees": "₺7.279",
+        "extracted_before_taxes_fees": 7279
+      }
+    },
+    {
+      "source": "Hktuyitrip",
+      "link": "https://www.google.com/travel/clk?pc=AA80Oszl9QU5DPX96h-2BWXVA0reJBdZFDFYyAJS_GqJ7bukoEe03_xJy0KKsaH2XWQJBL7M1ytOaKK4iLFokp2Y7S2ZB_2wSJ4WvWTdr-Fg36f2BJSYZ8OqyXWCiGLrHcfWiAFXy5n4DfwqdeG4hKhjpdzzlTWm92mDeg&pcurl=https://m.hktuyitrip.com/hotel-detail?hotelId%3Dh1329979892883787776%26roomId%3Dr1329979893177389056%26planId%3Dr1329979893177389056_2%5C_2%5C_2%5C_2%5C_3%5C_w%5C_p%5C_m%5C_207990620%26checkIn%3D2025-03-01%26checkOut%3D2025-03-05%26adult%3D2%26children%3D0%26age%3D%26userDevice%3Ddesktop%26googleSite%3Dlocaluniversal%26userCurrency%3DTRY%26userCountry%3DUS%26userLanguage%3Dtr%26userTotal%3D8135.52&ap=1",
+      "logo": "https://www.gstatic.com/travel-hotels/branding/2251525791718525693.png",
+      "num_guests": 2,
+      "rate_per_night": {
+        "lowest": "₺2.034",
+        "extracted_lowest": 2034
+      },
+      "total_rate": {
+        "lowest": "₺8.136",
+        "extracted_lowest": 8136
+      }
+    },
+    {
+      "source": "Hotelscombined.com",
+      "link": "https://www.google.com/travel/clk?pc=AA80OsyhYmgedGfbKh0y1d38fd6sWdHf0FBMXuLf2XZlxJsh-MpPTw94G2bti72RRmL3rvVDXtmxjuNfN5jifqC7yLvAdNyEb2RAhKqU76a7B7hOhzcU8IlHphxhcw3ktZoeqSUg6T1Is-_NGw&pcurl=https://www.hotelscombined.com/semi/ha/hotel_ads/434887/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D434887%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2025-03-01%26co%3D2025-03-05%26gs%3Dlocaluniversal%26l%3D4%26pc%3DUSD%26rid%3D%26pdtax%3D873.76%26pdtotal%3D8153.11%26rpid%3D%26uc%3DUS%26ucuc%3DTRY%26d%3Ddesktop%26lc%3Dtr%26v%3Dfalse%26rrid%3D%26k_pc%3D~QUdPREFIUEE%26k_rt%3D%26k_sid%3DqKCkDYwDfG%26k_kct%3D1740738166%26k_gct%3D1740738299%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dus%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&ap=1",
+      "logo": "https://www.gstatic.com/travel-hotels/branding/b73f8d82-aa66-4ac5-861d-52bce84c9ae5.png",
+      "num_guests": 2,
+      "rate_per_night": {
+        "lowest": "₺2.038",
+        "extracted_lowest": 2038,
+        "before_taxes_fees": "₺1.820",
+        "extracted_before_taxes_fees": 1820
+      },
+      "total_rate": {
+        "lowest": "₺8.153",
+        "extracted_lowest": 8153,
+        "before_taxes_fees": "₺7.279",
+        "extracted_before_taxes_fees": 7279
+      }
+    },
+    {
+      "source": "momondo.com",
+      "link": "https://www.google.com/travel/clk?pc=AA80OszGM8XEoRlqYJ-pSU7GGMpQ78bMrZHjSFthxa4MyMhQRw9HcSzP-QI8zSRRGa-6CLSSStlTQKWQaIgbqmMRe7xhRzP_i4A8F06msF8UTGMfUjThsAu3za9btGJEmw&pcurl=https://www.momondo.com/semi/ha/hotel_ads/434887/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D434887%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2025-03-01%26co%3D2025-03-05%26gs%3Dlocaluniversal%26l%3D4%26pc%3DUSD%26rid%3D%26pdtax%3D873.76%26pdtotal%3D8153.11%26rpid%3D%26uc%3DUS%26ucuc%3DTRY%26d%3Ddesktop%26lc%3Dtr%26v%3Dfalse%26rrid%3D%26k_pc%3D~QUdPREFIUEE%26k_rt%3D%26k_sid%3DqKCEKmxC1R%26k_kct%3D1740738166%26k_gct%3D1740738398%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dus%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&ap=1",
+      "logo": "https://www.gstatic.com/travel-hotels/branding/icon_970163321.png",
+      "num_guests": 2,
+      "rate_per_night": {
+        "lowest": "₺2.038",
+        "extracted_lowest": 2038,
+        "before_taxes_fees": "₺1.820",
+        "extracted_before_taxes_fees": 1820
+      },
+      "total_rate": {
+        "lowest": "₺8.153",
+        "extracted_lowest": 8153,
+        "before_taxes_fees": "₺7.279",
+        "extracted_before_taxes_fees": 7279
+      }
+    },
+    {
+      "source": "Bluepillow.com",
+      "link": "https://www.google.com/travel/clk?pc=AA80OszutXddL2rs-fiTbUVJjsDjBCChx5hwwF0u4nK9HZMyrBHKS6PCxjeALGeQ4Vqk74t1PeywmtQ6UGYK7dFs7rdRCScGo-fEXIBiGmK0S0jKqY8LY3O7YyxcOn_P7gXDOw&pcurl=https://www.bluepillow.com/checkout/61828b219e3163a56a2826cf?begin%3D2025-03-01%26end%3D2025-03-05%26block_id%3D-b,myiwm6Q1APvQcXFt2QqonrjRzHEBqvKI1Dh4nFDYQUxRNqSWOHdRuXYwn8JWDTke,-bpag-Hotel%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DTRY%26language%3Dtr%26source%3Dlocaluniversal%26utm_campaign%3Dhotel%26prid%3Dforeign_member&ap=1",
+      "logo": "https://www.gstatic.com/travel-hotels/branding/c770e909-af04-45dd-8ad7-335bc5055826.png",
+      "num_guests": 2,
+      "original_rate_per_night": {
+        "lowest": "₺2.395",
+        "extracted_lowest": 2395,
+        "before_taxes_fees": "₺2.137",
+        "extracted_before_taxes_fees": 2137
+      },
+      "original_total_rate": {
+        "lowest": "₺9.579",
+        "extracted_lowest": 9579,
+        "before_taxes_fees": "₺8.546",
+        "extracted_before_taxes_fees": 8546
+      },
+      "discount_remarks": [
+        "Üyeler için ücret, %7 tasarruf edin"
+      ],
+      "rate_per_night": {
+        "lowest": "₺1.985",
+        "extracted_lowest": 1985
+      },
+      "total_rate": {
+        "lowest": "₺7.939",
+        "extracted_lowest": 7939
+      }
+    },
+    {
+      "source": "Travelocity.com",
+      "link": "https://www.google.com/travel/clk?pc=AA80OsyFVfYjWLZLeGr7eKYINePb_3nc1SzHLCbjc8bml34J9Sbe9fUcHN6zgIcMAOCprt3NoTf5I305x1T-OZrNK2JKBEb64TD0fMQJlU8dWb808TgwzAQIR5lornmr_y-_jGXL-w2d&pcurl=https://www.travelocity.com/Hotel-Search?selected%3D6553775%26startDate%3D2025-03-01%26endDate%3D2025-03-05%26adults%3D2%26children%3D%26MDPCID%3Dtravelocity-US.META.HPA.ORGANIC.HOTEL%26MDPDTL%3DHTL.6553775.20250301.20250305.DDF.1.CID..AUDID..localuniversal%26exp_curr%3DTRY%26exp_dp%3D9579.17%26exp_tx%3D1033.02%26mctc%3D10%26rateplanid%3D207622733%26mpm%3D24%26mpn%3D201491946%26mpo%3DEC%26mpp%3D1&ap=1",
+      "logo": "https://www.gstatic.com/travel-hotels/branding/icon_185.png",
+      "num_guests": 2,
+      "rate_per_night": {
+        "lowest": "₺2.395",
+        "extracted_lowest": 2395,
+        "before_taxes_fees": "₺2.137",
+        "extracted_before_taxes_fees": 2137
+      },
+      "total_rate": {
+        "lowest": "₺9.579",
+        "extracted_lowest": 9579,
+        "before_taxes_fees": "₺8.546",
+        "extracted_before_taxes_fees": 8546
+      }
+    },
+    {
+      "source": "Expedia.dk",
+      "link": "https://www.google.com/travel/clk?pc=AA80Osw7LPC85IF8yfVl1o8a-8B6yru5kKSoSix9u56H_SDyt1DOJtTq4a20fz64mYtcPGZ6dGZyaBvS8oxArMpIpuX7qw1dY1reHK32O08QgI5vKd3EEL8lvcONQumB50bzV6YDJJ6p&pcurl=https://www.expedia.dk/Hotel-Search?selected%3D6553775%26startDate%3D2025-03-01%26endDate%3D2025-03-05%26MDPCID%3DUS.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.6553775.20250301.20250305.DDF.1.CID..AUDID..RRID.bex_us_desktop%26adults%3D2%26children%3D%26mctc%3D10%26ct%3Dhotel%26mpg%3DTRY%26mpf%3D9579.17%26mpj%3D1033.02%26mpl%3DUSD%26exp_pg%3Dgoogle%26langid%3Dtr%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D6553775%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26rateplanid%3D207622733%26mpm%3D24%26mpn%3D201491946%26mpo%3DEC%26mpp%3D1&ap=1",
+      "logo": "https://www.gstatic.com/travel-hotels/branding/ac238c97-1652-4830-8da8-bb8d8883af88.png",
+      "num_guests": 2,
+      "rate_per_night": {
+        "lowest": "₺2.395",
+        "extracted_lowest": 2395,
+        "before_taxes_fees": "₺2.137",
+        "extracted_before_taxes_fees": 2137
+      },
+      "total_rate": {
+        "lowest": "₺9.579",
+        "extracted_lowest": 9579,
+        "before_taxes_fees": "₺8.546",
+        "extracted_before_taxes_fees": 8546
+      }
+    }
+  ],
+  "typical_price_range": {
+    "lowest": "₺1.818",
+    "extracted_lowest": 1818,
+    "highest": "₺2.598",
+    "extracted_highest": 2598
+  },
+  "deal": "Normalden %18 daha az",
+  "deal_description": "Deal",
+  "nearby_places": [
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "Anıtkabir",
+      "link": "https://www.google.com/search?q=An%C4%B1tkabir&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwNTBJM9FSzE620s_JT04syczPgzOsEktKihKTQcxiABZ-RCMyAAAA#fpstate=trskp&trifp=kpq%253DAn%2525C4%2525B1tkabir%2526skpm%253D/m/0504f4%2526t%253Dd",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpwbfZU9z4uU065EghueoA7JdUdh0-MUJIpcXVm7xSbWmXkW-k",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "14 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "40 dk."
+        }
+      ],
+      "rating": 4.9,
+      "reviews": 127344,
+      "description": "Mermer salonu, kuleleri ve müzesiyle Mustafa Kemal Atatürk'ün kolonlu anıt mezarı.",
+      "gps_coordinates": {
+        "latitude": 39.924882499999995,
+        "longitude": 32.8370786
+      }
+    },
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "Anadolu Medeniyetleri Müzesi",
+      "link": "https://www.google.com/search?q=Anadolu+Medeniyetleri+M%C3%BCzesi&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TdIqjTPK9JSzE620s_JT04syczPgzOsEktKihKTQcxiAKiyAboyAAAA#fpstate=trskp&trifp=kpq%253DAnadolu%252BMedeniyetleri%252BM%2525C3%2525BCzesi%2526skpm%253D/m/0by7nr%2526t%253Dd",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMsRG0JW2MUgGwwwjj8PsTnQHbdkxUuD2tbbpgW=w160-h284-k-no",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "20 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "34 dk."
+        }
+      ],
+      "rating": 4.8,
+      "reviews": 14195,
+      "description": "Paleolitik dönemden klasik döneme uzanan, bazıları avluda sergilenen eserler içeren müze.",
+      "gps_coordinates": {
+        "latitude": 39.9382042,
+        "longitude": 32.8618958
+      }
+    },
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "Ankara Kalesi",
+      "link": "https://www.google.com/search?q=Ankara+Kalesi&stick=H4sIAAAAAAAAAONgFmJQ4tLP1TfIiS_OSTHRUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgCIxOYrMwAAAA#fpstate=trskp&trifp=kpq%253DAnkara%252BKalesi%2526skpm%253D/m/0l_sld4%2526t%253Dd",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIiayHmKpBMjsqcN0QAbMua_j__5s0XN7RXWd_qPDsPpAOu06Y",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "21 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "39 dk."
+        }
+      ],
+      "rating": 4.4,
+      "reviews": 19803,
+      "description": "Her yönde panoramik şehir manzaraları sunan, kayalık bir tepenin üzerine kurulmuş antik kale.",
+      "gps_coordinates": {
+        "latitude": 39.9390359,
+        "longitude": 32.8654212
+      }
+    },
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "Kocatepe Camii",
+      "link": "https://www.google.com/search?q=Kocatepe+Camii&stick=H4sIAAAAAAAAAONgFmJQ4tLP1TcwMi-wMEjXUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgDNW-KzMwAAAA#fpstate=trskp&trifp=kpq%253DKocatepe%252BCamii%2526skpm%253D/m/027p80g%2526t%253Dd",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXkYhbuDIVzm8uddOYpNBp_7cSaZwAkilMQ6UZGL_ymQv9MN5T",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "14 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "23 dk."
+        }
+      ],
+      "rating": 4.7,
+      "reviews": 12760,
+      "description": "1967-1987 arasında inşa edilen bu neoklasik Osmanlı stili cami, 24.000 kişilik kapasitesiyle şehrin en büyüğü.",
+      "gps_coordinates": {
+        "latitude": 39.9166089,
+        "longitude": 32.860706199999996
+      }
+    },
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "Hacı Bayram-ı Velî Camii",
+      "link": "https://www.google.com/search?q=Hac%C4%B1+Bayram-%C4%B1+Vel%C3%AE+Camii&stick=H4sIAAAAAAAAAONgFmJQ4tVP1zc0TDIzKE4zzS7UUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgD72h_7NgAAAA#fpstate=trskp&trifp=kpq%253DHac%2525C4%2525B1%252BBayram-%2525C4%2525B1%252BVel%2525C3%2525AE%252BCamii%2526skpm%253D/g/11b60sf5kq%2526t%253Dd",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMeCKfp1J9k9Jh-jFIQaXxH6kIy3VKwyUYqIzZD=w160-h213-k-no",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "19 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "30 dk."
+        }
+      ],
+      "rating": 4.8,
+      "reviews": 21610,
+      "description": "Osmanlı devrinde inşa edilmiş ve günümüzde kullanılan, kent simgesi niteliğinde cami.",
+      "gps_coordinates": {
+        "latitude": 39.944505299999996,
+        "longitude": 32.8580019
+      }
+    },
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "Etnoğrafya Müzesi",
+      "link": "https://www.google.com/search?q=Etno%C4%9Frafya+M%C3%BCzesi&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TdIKjAtztJSzE620s_JT04syczPgzOsEktKihKTQcxiAB5w6-wyAAAA#fpstate=trskp&trifp=kpq%253DEtno%2525C4%25259Frafya%252BM%2525C3%2525BCzesi%2526skpm%253D/m/0bp5sj%2526t%253Dd",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOuiWk1JLIYw3Ha70V9Qb31qWw8Uw8mzCsMUwYZBteHL2MJ-f5",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "15 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "30 dk."
+        }
+      ],
+      "description": "Folklorik Anadolu eserlerinin, takıların, seramik ve ahşap eserlerin yer aldığı, iyi düzenlenmiş küçük müze.",
+      "gps_coordinates": {
+        "latitude": 39.9326873,
+        "longitude": 32.855381799999996
+      }
+    },
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "GENÇLİK PARKI ŞEHRİ AHTER",
+      "link": "https://www.google.com/search?q=GEN%C3%87L%C4%B0K+PARKI+%C5%9EEHR%C4%B0+AHTER&stick=H4sIAAAAAAAAAONgFmJQ4tLP1TdIz03PyTDTUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgDzHPE3MwAAAA#fpstate=trskp&trifp=kpq%253DGEN%2525C3%252587L%2525C4%2525B0K%252BPARKI%252B%2525C5%25259EEHR%2525C4%2525B0%252BAHTER%2526skpm%253D/m/0gmglh6%2526t%253Dd",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qsdLSW9jN1E2wu3VsMEz7QH_p_4qE5tpSccHj6GQpn4w31x1",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "16 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "29 dk."
+        }
+      ],
+      "rating": 4.2,
+      "reviews": 1062,
+      "description": "Gölet kıyısında taş döşeli yürüyüş yollarının, gölgelikli bankların ve küçük bir lunaparkın bulunduğu geniş rekreasyon alanı.",
+      "gps_coordinates": {
+        "latitude": 39.9349375,
+        "longitude": 32.8509495
+      }
+    },
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "Rahmi M. Koç Müzesi Ankara",
+      "link": "https://www.google.com/search?q=Rahmi+M.+Ko%C3%A7+M%C3%BCzesi+Ankara&stick=H4sIAAAAAAAAAONgFmJQ4tLP1TdIz03KzrXUUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgB0EcZMMwAAAA#fpstate=trskp&trifp=kpq%253DRahmi%252BM.%252BKo%2525C3%2525A7%252BM%2525C3%2525BCzesi%252BAnkara%2526skpm%253D/m/0gmbkm9%2526t%253Dd",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNPRWY1Ler02HDdx3FjT3bZXipcD1WyTqlTRY-F=w180-h120-k-no",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "19 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "36 dk."
+        }
+      ],
+      "rating": 4.8,
+      "reviews": 6523,
+      "description": "Ender arabalardan tıbbi eşyalara çeşitli eserlerlerle taşıtlar ve bilimin tarihine ışık tutan müze.",
+      "gps_coordinates": {
+        "latitude": 39.9372464,
+        "longitude": 32.8634883
+      }
+    },
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "Kuğulu Park",
+      "link": "https://www.google.com/search?q=Ku%C4%9Fulu+Park&stick=H4sIAAAAAAAAAONgFmJQ4tLP1Tcoq0ipSjLSUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgDiVKvNMwAAAA#fpstate=trskp&trifp=kpq%253DKu%2525C4%25259Fulu%252BPark%2526skpm%253D/m/0vxdzb2%2526t%253Dd",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhfUQHoalH3IjLSJHgAQ8KLvVsc7YyZQ3gwHQgPegKaQ09aeSD",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "8 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "13 dk."
+        }
+      ],
+      "rating": 4.5,
+      "reviews": 23123,
+      "description": "Yürüyüş yolları, çocuk oyun alanı ve kuğuların ve ördeklerin yüzdüğü gölet sunan park.",
+      "gps_coordinates": {
+        "latitude": 39.902000099999995,
+        "longitude": 32.8601762
+      }
+    },
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "Ulucanlar Cezaevi Müzesi",
+      "link": "https://www.google.com/search?q=Ulucanlar+Cezaevi+M%C3%BCzesi&stick=H4sIAAAAAAAAAONgFmJQ4tLP1TcoTk8rrjTQUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgD9ijn1MwAAAA#fpstate=trskp&trifp=kpq%253DUlucanlar%252BCezaevi%252BM%2525C3%2525BCzesi%2526skpm%253D/m/0sgfsy0%2526t%253Dd",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPzABsnOyWGs5Nsuw35oOhR-oC9qB_gmHWknqDe=w220-h120-k-no",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "20 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "43 dk."
+        }
+      ],
+      "rating": 4.7,
+      "reviews": 15650,
+      "description": "Cezaevinden dönüştürülen kültür ve sanat merkezi ile tarih müzesinde hücre turları.",
+      "gps_coordinates": {
+        "latitude": 39.9376335,
+        "longitude": 32.8732154
+      }
+    },
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "Kurtuluş Savaşı Müzesi (I. TBMM Binası)",
+      "link": "https://www.google.com/search?q=Kurtulu%C5%9F+Sava%C5%9F%C4%B1+M%C3%BCzesi+(I.+TBMM+Binas%C4%B1)&stick=H4sIAAAAAAAAAONgFmJQ4tLP1TcwMynMNjbVUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgAy7T77MwAAAA#fpstate=trskp&trifp=kpq%253DKurtulu%2525C5%25259F%252BSava%2525C5%25259F%2525C4%2525B1%252BM%2525C3%2525BCzesi%252B(I.%252BTBMM%252BBinas%2525C4%2525B1)%2526skpm%253D/m/064qk35%2526t%253Dd",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgA6lV5z_EW2PrvhKf4pl8u1uH6j5lfo8my3YT1Voc5RjU8nuG",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "17 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "26 dk."
+        }
+      ],
+      "rating": 4.9,
+      "reviews": 4706,
+      "description": "Heybetli bir 2 katlı taş binada Kurtuluş Savaşı'ndan kalma silah ve nesnelerin sergilendiği müze.",
+      "gps_coordinates": {
+        "latitude": 39.942025699999995,
+        "longitude": 32.8534946
+      }
+    },
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "Eymir Gölü",
+      "link": "https://www.google.com/search?q=Eymir+G%C3%B6l%C3%BC&stick=H4sIAAAAAAAAAONgFmJQ4tLP1TdIz0oytLTQUsxOttLPyU9OLMnMz4MzrBJLSooSk0HMYgAIe48FMwAAAA#fpstate=trskp&trifp=kpq%253DEymir%252BG%2525C3%2525B6l%2525C3%2525BC%2526skpm%253D/m/0gjb198%2526t%253Dd",
+      "thumbnail": "http://t3.gstatic.com/images?q=tbn:ANd9GcQXYeEvUbochv4jOljlGx2j_sN9Jd0_rl7oT3x8oIBR1cuB3jR4ZDAlKA",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "25 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "1 sa. 30 dk."
+        }
+      ],
+      "rating": 4.5,
+      "reviews": 3557,
+      "description": "Orta Doğu Teknik Üniversitesi kampüsünde yer alan, çam ağaçlarının çevrelediği kıvrımlı, uzun göl.",
+      "gps_coordinates": {
+        "latitude": 39.826201399999995,
+        "longitude": 32.832425199999996
+      }
+    },
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "Augustus Tapınağı",
+      "link": "https://www.google.com/search?q=Augustus+Tap%C4%B1na%C4%9F%C4%B1&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwzUkuKNBSzE620s_JT04syczPgzOsEktKihKTQcxiABgkXeMyAAAA#fpstate=trskp&trifp=kpq%253DAugustus%252BTap%2525C4%2525B1na%2525C4%25259F%2525C4%2525B1%2526skpm%253D/m/05lcpp%2526t%253Dd",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPYfEJ0Dx-Z7oTPqxjJhCxMJP0Q1M81zGd1mMvP=w160-h213-k-no",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "19 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "31 dk."
+        }
+      ],
+      "rating": 4.3,
+      "reviews": 505,
+      "description": "İlk Roma imparatoru Augustus'un anısını yaşatan yazılarla bezeli bir duvarın yer aldığı antik harabeler.",
+      "gps_coordinates": {
+        "latitude": 39.9441182,
+        "longitude": 32.858225499999996
+      }
+    },
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "Cermodern",
+      "link": "https://www.google.com/search?q=Cermodern&stick=H4sIAAAAAAAAAONgFmJQ4tZP1zcsSckoMDTJ0FLMTrbSz8lPTizJzM-DM6wSS0qKEpNBzGIAiG3ERjQAAAA#fpstate=trskp&trifp=kpq%253DCermodern%2526skpm%253D/g/1tdhp14h%2526t%253Dd",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM6K5fe_pJWBO9-Np1NJNYc1rdZVanTFaf8W9zc=w164-h120-k-no",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "18 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "32 dk."
+        }
+      ],
+      "rating": 4.4,
+      "reviews": 5815,
+      "description": "2010'da açılan bu müze, eski demir yolu fabrikasında modern sanat sergi ve etkinliklerine ev sahipliği yapar.",
+      "gps_coordinates": {
+        "latitude": 39.9318309,
+        "longitude": 32.8491314
+      }
+    },
+    {
+      "category": "İlgi Çekici Yer",
+      "name": "Ankara Resim ve Heykel Müzesi",
+      "link": "https://www.google.com/search?q=Ankara+Resim+ve+Heykel+M%C3%BCzesi&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TdIKjDNSNFSzE620s_JT04syczPgzOsEktKihKTQcxiAG_4cLEyAAAA#fpstate=trskp&trifp=kpq%253DAnkara%252BResim%252Bve%252BHeykel%252BM%2525C3%2525BCzesi%2526skpm%253D/m/0bp5hd%2526t%253Dd",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFQ8OdKM6KDNfTVZ0WihXeTpKLCS8nXOGF7zqHkZXZT3xfwWUq",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "15 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "29 dk."
+        }
+      ],
+      "rating": 4.7,
+      "reviews": 2852,
+      "description": "Büyük, tarihi binada atölyeler ile Türk sanat ve heykelleri sergisi.",
+      "gps_coordinates": {
+        "latitude": 39.933272099999996,
+        "longitude": 32.855700399999996
+      }
+    },
+    {
+      "category": "Tren İstasyonu",
+      "name": "Yenişehir",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "15 dk."
+        },
+        {
+          "type": "Walking",
+          "duration": "1 sa. 21 dk."
+        }
+      ],
+      "gps_coordinates": {
+        "latitude": 39.929122,
+        "longitude": 32.857847
+      }
+    },
+    {
+      "category": "Otobüs Terminali",
+      "name": "Anadolu Lisesi",
+      "transportations": [
+        {
+          "type": "Walking",
+          "duration": "4 dk."
+        }
+      ],
+      "gps_coordinates": {
+        "latitude": 39.89118,
+        "longitude": 32.87645
+      }
+    },
+    {
+      "category": "Otobüs Terminali",
+      "name": "Arjantin Büyükelçiliği",
+      "transportations": [
+        {
+          "type": "Walking",
+          "duration": "7 dk."
+        }
+      ],
+      "gps_coordinates": {
+        "latitude": 39.89369,
+        "longitude": 32.87661
+      }
+    },
+    {
+      "category": "Otobüs Terminali",
+      "name": "Mesa Şafak Evleri",
+      "transportations": [
+        {
+          "type": "Walking",
+          "duration": "6 dk."
+        }
+      ],
+      "gps_coordinates": {
+        "latitude": 39.89302,
+        "longitude": 32.87898
+      }
+    },
+    {
+      "category": "Otobüs Terminali",
+      "name": "Ufuk Sitesi",
+      "transportations": [
+        {
+          "type": "Walking",
+          "duration": "6 dk."
+        }
+      ],
+      "gps_coordinates": {
+        "latitude": 39.89225,
+        "longitude": 32.87507
+      }
+    },
+    {
+      "category": "Havalimanı",
+      "name": "Ankara Esenboğa Havalimanı",
+      "transportations": [
+        {
+          "type": "Taxi",
+          "duration": "44 dk."
+        },
+        {
+          "type": "Public transport",
+          "duration": "1 sa. 15 dk."
+        }
+      ],
+      "gps_coordinates": {
+        "latitude": 40.128055599999996,
+        "longitude": 32.995
+      }
+    }
+  ],
+  "hotel_class": "4 yıldızlı otel",
+  "extracted_hotel_class": 4,
+  "images": [
+    {
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEfz-A9iUQ7V9nheZ2SDyZMknq7P90aizINhHgMRUNdq7Sfn7XrjwRsAehKGMgQJy4zZ5Y8jJswHNDv7XFOCygg6lTKgyKzFZt35kSxIf-WNzd31KnAIsB_7Z3xWCADzk0Nvs57pCWZEdkQ6djy7yzH1EefaHpGjolXlo4o9f4bEiNQnfzWfms=s287-w287-h192-n-k-no-v1",
+      "original_image": "https://images.trvl-media.com/lodging/7000000/6560000/6553800/6553775/99a3e691_z.jpg"
+    },
+    {
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMqA45avzr_kqsaj_j8HqvtWuRxI11oPc7d3yao=s287-w287-h192-n-k-no-v1",
+      "original_image": "https://lh5.googleusercontent.com/p/AF1QipMqA45avzr_kqsaj_j8HqvtWuRxI11oPc7d3yao=s10000"
+    },
+    {
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE9JCxdz3gGhZ8mDdn8ZWphcSW4ld9JqBpGQxIzwV70kjVU83xdTZoR5fBUV1cw-S9BX1Dw4dh_4vkWGekPgonb7VwCmVT_q7y2V3huI0EBOJWmuhIXPclCWepMYPgZXA6Pe1Z4ng33G6ZBpI-jG-G5A_inruI_ENCgi1XBB_9jpxPkc8c5Tq1r=s287-w287-h192-n-k-no-v1",
+      "original_image": "https://photos.hotelbeds.com/giata/original/57/575649/575649a_hb_ro_014.jpg"
+    },
+    {
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFSgCQ6yF3WMp-wRMViNXfLEBLtEU-sp48OnO7oNgL6GdbZSqKoPeBlJkx8LLTkiJ9sDMjGjV4uNBjtcuD4stiRb9uWYXtDf1x2hlH1nwdgj8RG3ExVh8SJBIdm_GRqRi4NCcsnMhlPRwJ0JGyfyuzH0jW-TdW1KZLpH2JBaTJsNHJ76E_mP37Hkg=s287-w287-h192-n-k-no-v1",
+      "original_image": "https://photos.hotelbeds.com/giata/original/57/575649/575649a_hb_ro_007.jpg"
+    },
+    {
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNXyTsaUB2Iau8teaWFXhOZDO1tRH_-CDN5QZ6t=s287-w287-h192-n-k-no-v1",
+      "original_image": "https://lh5.googleusercontent.com/p/AF1QipNXyTsaUB2Iau8teaWFXhOZDO1tRH_-CDN5QZ6t=s10000"
+    },
+    {
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP8Vn0AYsHY3QDlr1cHexjeEwrrxtT8jD_ZGrO6=s287-w287-h192-n-k-no-v1",
+      "original_image": "https://lh5.googleusercontent.com/p/AF1QipP8Vn0AYsHY3QDlr1cHexjeEwrrxtT8jD_ZGrO6=s10000"
+    },
+    {
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGWD2ZGc4MhtBYAj6il4rlCKijtwW1Nk2Zaq6bBYTVGFtYAP9-N_dAuhMhYnxboM2yUoHak0qVjDr1gkypKZZjns6z4Zr5-dQz5ljrJI4MsZ-H45ghoFGZBmI3QcleTnrodU8ZZpqXlrKQUr-G1vN3bHvMUgOR5M-bzjo4obHsker-BF_wfhbov=s287-w287-h192-n-k-no-v1",
+      "original_image": "https://photos.hotelbeds.com/giata/original/57/575649/575649a_hb_l_002.jpg"
+    },
+    {
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhESTHXsBauG2NbUxnt_oPqhd-dB6oppuddUKBU1iixtBRUqLPLNfob8haMTpVVXDL6zoVxIGLgqRRDmFtWNxXAWBD5UNzrrFgs2FLpc8EZ1rZELa8atelbAlFFp8t8sAcagA0ix2wNDh380aY2v3CYcSDvrv_yFzobaYtykF9z2h4e1PUK8Ndn6=s287-w287-h192-n-k-no-v1",
+      "original_image": "https://photos.hotelbeds.com/giata/original/57/575649/575649a_hb_r_003.jpg"
+    },
+    {
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGGhB-iJ0SOBqxJ0Xz-EU9OcRQFtM3dx7BHR7h2nzp533hzIKe2u-OFyUSS-OGGodkPEEu3vGcohbfXTcrZNJ3TZhULZ8W-nP5IlNXCJIUWBtVCgsZVNeIhwHfRTUDCKP6NGaxO99J5SDJs11Z8k_02NxtnwFDQjN2rsaTSjlV-gzUkk8k5jSE=s287-w287-h192-n-k-no-v1",
+      "original_image": "https://cdn.worldota.net/t/1024x768/content/1c/69/1c695880308c842ccc715ce2451b4879e5823ce4.jpeg"
+    }
+  ],
+  "overall_rating": 4.3,
+  "reviews": 638,
+  "ratings": [
+    {
+      "stars": 5,
+      "count": 402
+    },
+    {
+      "stars": 4,
+      "count": 141
+    },
+    {
+      "stars": 3,
+      "count": 39
+    },
+    {
+      "stars": 2,
+      "count": 24
+    },
+    {
+      "stars": 1,
+      "count": 32
+    }
+  ],
+  "location_rating": 3.1,
+  "reviews_breakdown": [
+    {
+      "name": "Evcil Hayvanlar",
+      "description": "Pets",
+      "total_mentioned": 14,
+      "positive": 10,
+      "negative": 3,
+      "neutral": 1
+    },
+    {
+      "name": "Kahvaltı",
+      "description": "Breakfast",
+      "total_mentioned": 89,
+      "positive": 58,
+      "negative": 18,
+      "neutral": 13
+    },
+    {
+      "name": "Restoran",
+      "description": "Restaurant",
+      "total_mentioned": 42,
+      "positive": 27,
+      "negative": 8,
+      "neutral": 7
+    },
+    {
+      "name": "Hizmet",
+      "description": "Service",
+      "total_mentioned": 148,
+      "positive": 135,
+      "negative": 12,
+      "neutral": 1
+    },
+    {
+      "name": "Temizlik",
+      "description": "Cleanliness",
+      "total_mentioned": 138,
+      "positive": 117,
+      "negative": 15,
+      "neutral": 6
+    },
+    {
+      "name": "Mülk",
+      "description": "Property",
+      "total_mentioned": 149,
+      "positive": 125,
+      "negative": 14,
+      "neutral": 10
+    },
+    {
+      "name": "Konum",
+      "description": "Location",
+      "total_mentioned": 59,
+      "positive": 53,
+      "negative": 3,
+      "neutral": 3
+    },
+    {
+      "name": "TV",
+      "description": "Room entertainment",
+      "total_mentioned": 8,
+      "positive": 3,
+      "negative": 3,
+      "neutral": 2
+    },
+    {
+      "name": "Uyku",
+      "description": "Sleep",
+      "total_mentioned": 32,
+      "positive": 15,
+      "negative": 15,
+      "neutral": 2
+    },
+    {
+      "name": "Otopark",
+      "description": "Parking",
+      "total_mentioned": 15,
+      "positive": 13,
+      "negative": 2,
+      "neutral": 0
+    },
+    {
+      "name": "Bar",
+      "description": "Bar or lounge",
+      "total_mentioned": 12,
+      "positive": 8,
+      "negative": 2,
+      "neutral": 2
+    },
+    {
+      "name": "İş",
+      "description": "Business",
+      "total_mentioned": 17,
+      "positive": 11,
+      "negative": 3,
+      "neutral": 3
+    },
+    {
+      "name": "Oda",
+      "description": "Room amenities",
+      "total_mentioned": 22,
+      "positive": 9,
+      "negative": 11,
+      "neutral": 2
+    },
+    {
+      "name": "Aile",
+      "description": "Family friendly",
+      "total_mentioned": 16,
+      "positive": 14,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "name": "Banyo",
+      "description": "Bathroom and toiletries",
+      "total_mentioned": 22,
+      "positive": 9,
+      "negative": 11,
+      "neutral": 2
+    },
+    {
+      "name": "Dining",
+      "description": "Food and Beverage",
+      "total_mentioned": 13,
+      "positive": 11,
+      "negative": 0,
+      "neutral": 2
+    },
+    {
+      "name": "Mutfak",
+      "description": "Kitchen",
+      "total_mentioned": 6,
+      "positive": 3,
+      "negative": 3,
+      "neutral": 0
+    },
+    {
+      "name": "Atmosfer",
+      "description": "Atmosphere",
+      "total_mentioned": 29,
+      "positive": 27,
+      "negative": 1,
+      "neutral": 1
+    },
+    {
+      "name": "Güvenlik",
+      "description": "Safety",
+      "total_mentioned": 6,
+      "positive": 5,
+      "negative": 0,
+      "neutral": 1
+    },
+    {
+      "name": "Kablosuz",
+      "description": "Wi-Fi",
+      "total_mentioned": 6,
+      "positive": 2,
+      "negative": 3,
+      "neutral": 1
+    },
+    {
+      "name": "Toplu Taşıma",
+      "description": "Public transit",
+      "total_mentioned": 5,
+      "positive": 5,
+      "negative": 0,
+      "neutral": 0
+    },
+    {
+      "name": "Klima",
+      "description": "Air conditioning",
+      "total_mentioned": 5,
+      "positive": 1,
+      "negative": 3,
+      "neutral": 1
+    }
+  ],
+  "eco_certified": true
+}

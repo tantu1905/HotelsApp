@@ -1,0 +1,3799 @@
+{
+  "search_metadata": {
+    "id": "67c19ab74755dd6b5f8eea5a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/baeb1c4a05250e3d/67c19ab74755dd6b5f8eea5a.json",
+    "created_at": "2025-02-28 11:15:03 UTC",
+    "processed_at": "2025-02-28 11:15:03 UTC",
+    "google_hotels_url": "https://www.google.com/_/TravelFrontendUi/data/batchexecute?rpcids=AtySUc&source-path=/travel/search&hl=tr&gl=tr&rt=c&soc-app=162&soc-platform=1&soc-device=1",
+    "raw_html_file": "https://serpapi.com/searches/baeb1c4a05250e3d/67c19ab74755dd6b5f8eea5a.html",
+    "prettify_html_file": "https://serpapi.com/searches/baeb1c4a05250e3d/67c19ab74755dd6b5f8eea5a.prettify",
+    "total_time_taken": 1.62
+  },
+  "search_parameters": {
+    "engine": "google_hotels",
+    "q": "Ankara",
+    "gl": "tr",
+    "hl": "tr",
+    "currency": "TRY",
+    "check_in_date": "2025-03-01",
+    "check_out_date": "2025-03-05",
+    "adults": 2,
+    "children": 0
+  },
+  "search_information": {
+    "total_results": 644
+  },
+  "brands": [
+    {
+      "id": 33,
+      "name": "Accor Live Limitless",
+      "children": [
+        {
+          "id": 101,
+          "name": "Grand Mercure Otelleri"
+        },
+        {
+          "id": 103,
+          "name": "Ibis Styles"
+        },
+        {
+          "id": 91,
+          "name": "Mercure Otelleri"
+        },
+        {
+          "id": 276,
+          "name": "Mövenpick"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Hilton Honors",
+      "children": [
+        {
+          "id": 81,
+          "name": "DoubleTree by Hilton"
+        },
+        {
+          "id": 71,
+          "name": "Hilton Garden Inn"
+        },
+        {
+          "id": 54,
+          "name": "Hilton Otel ve Resortları"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "IHG Otel ve Resortları",
+      "children": [
+        {
+          "id": 42,
+          "name": "Crowne Plaza"
+        },
+        {
+          "id": 64,
+          "name": "Holiday Inn"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Marriott Bonvoy",
+      "children": [
+        {
+          "id": 26,
+          "name": "JW Marriott"
+        },
+        {
+          "id": 12,
+          "name": "Sheraton Otel ve Resortları"
+        },
+        {
+          "id": 143,
+          "name": "The Luxury Collection"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Radisson Hotel Group",
+      "children": [
+        {
+          "id": 132,
+          "name": "Park Inn by Radisson"
+        },
+        {
+          "id": 79,
+          "name": "Radisson Blu"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Wyndham Otel ve Resortları",
+      "children": [
+        {
+          "id": 19,
+          "name": "Days Inn"
+        },
+        {
+          "id": 50,
+          "name": "Ramada"
+        },
+        {
+          "id": 284,
+          "name": "Trademark"
+        },
+        {
+          "id": 65,
+          "name": "TRYP"
+        },
+        {
+          "id": 150,
+          "name": "Wyndham"
+        }
+      ]
+    }
+  ],
+  "properties": [
+    {
+      "type": "hotel",
+      "name": "OTTO CITY Premium Suites",
+      "description": "Otopark ve WiFi imkanları sunan mütevazı otelde bazıları balkonlu veya şehir manzaralı rahat süitler.",
+      "link": "https://www.cityotto.com/",
+      "property_token": "ChkI6ozvl5vZ_b9jGg0vZy8xMWw5dm00dmx6EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChkI6ozvl5vZ_b9jGg0vZy8xMWw5dm00dmx6EAE&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.9181241,
+        "longitude": 32.8615452
+      },
+      "check_in_time": "12:00",
+      "check_out_time": "11:00",
+      "rate_per_night": {
+        "lowest": "₺2.090",
+        "extracted_lowest": 2090,
+        "before_taxes_fees": "₺2.090",
+        "extracted_before_taxes_fees": 2090
+      },
+      "total_rate": {
+        "lowest": "₺8.359",
+        "extracted_lowest": 8359,
+        "before_taxes_fees": "₺8.359",
+        "extracted_before_taxes_fees": 8359
+      },
+      "deal": "Normalden %22 daha az",
+      "deal_description": "Deal",
+      "nearby_places": [
+        {
+          "name": "Kocatepe Camii",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "3 dk."
+            }
+          ]
+        },
+        {
+          "name": "Durmaz Cami",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "5 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "35 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPpKXBETVmfSjr1WmUW45H4jDw1E2xhOOhoJTk1=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPpKXBETVmfSjr1WmUW45H4jDw1E2xhOOhoJTk1=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPSOdt_5KLV9bSHz699myWqdsieKJiiH-yipIuW=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPSOdt_5KLV9bSHz699myWqdsieKJiiH-yipIuW=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPf4vZbWrqJl4KoKsfxo0qZoFav6u-E1_Z7YgG9=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPf4vZbWrqJl4KoKsfxo0qZoFav6u-E1_Z7YgG9=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO-LmQS1LalHjnxRgTggn3eb0cEVDnDqqjZoKWX=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO-LmQS1LalHjnxRgTggn3eb0cEVDnDqqjZoKWX=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM2Hm6oJvyE2LhG-Nm5l38cKoVFjtciCQLw0mC1=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM2Hm6oJvyE2LhG-Nm5l38cKoVFjtciCQLw0mC1=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM-9DNEqM4kxAAjbnvNO7upckUYsPMxVckVsd0h=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM-9DNEqM4kxAAjbnvNO7upckUYsPMxVckVsd0h=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPXFkpWqgRRdaYwpJjcBf2xOt8gRKA-iZokD0v0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPXFkpWqgRRdaYwpJjcBf2xOt8gRKA-iZokD0v0=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOCEpMqKK6ApcwxhkGy4zLDFZmbP3opKcjd_rQf=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOCEpMqKK6ApcwxhkGy4zLDFZmbP3opKcjd_rQf=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/rxCs_YDd20vszxwCdTbM8V4hMtO8z1CfBx_Cbe9OxGjk2rEKH_M-sWz65GhavJeKMQFddLrfVgFsax3vwk4EVcPkrVAW0K3LRp7T2VTKXsUXtlXYNek43BH5Iq8Q0FT7M0Z36eAIVfh8LBSYZVXkkAmjGjuhFg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/67000000/66400000/66399500/66399467/81516235_z.jpg"
+        }
+      ],
+      "overall_rating": 4.4,
+      "reviews": 1553,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 1256
+        },
+        {
+          "stars": 4,
+          "count": 66
+        },
+        {
+          "stars": 3,
+          "count": 34
+        },
+        {
+          "stars": 2,
+          "count": 29
+        },
+        {
+          "stars": 1,
+          "count": 168
+        }
+      ],
+      "location_rating": 4.4,
+      "reviews_breakdown": [
+        {
+          "name": "Temizlik",
+          "description": "Cleanliness",
+          "total_mentioned": 389,
+          "positive": 317,
+          "negative": 64,
+          "neutral": 8
+        },
+        {
+          "name": "Mutfak",
+          "description": "Kitchen",
+          "total_mentioned": 36,
+          "positive": 12,
+          "negative": 20,
+          "neutral": 4
+        },
+        {
+          "name": "Hizmet",
+          "description": "Service",
+          "total_mentioned": 376,
+          "positive": 332,
+          "negative": 38,
+          "neutral": 6
+        },
+        {
+          "name": "Banyo",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 86,
+          "positive": 7,
+          "negative": 76,
+          "neutral": 3
+        },
+        {
+          "name": "Aile",
+          "description": "Family friendly",
+          "total_mentioned": 86,
+          "positive": 76,
+          "negative": 5,
+          "neutral": 5
+        },
+        {
+          "name": "Konum",
+          "description": "Location",
+          "total_mentioned": 186,
+          "positive": 165,
+          "negative": 11,
+          "neutral": 10
+        }
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Pet-friendly",
+        "Kitchen in some rooms",
+        "Full-service laundry"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "PERACITY HOTEL",
+      "description": "Kullanışlı odalar ile süitler, ayrıca otopark ve kablosuz internet gibi ücretsiz avantajlar sunan mütevazı otel.",
+      "link": "http://peracityhotel.com.tr/",
+      "property_token": "ChoInfiruI7X0bfoARoNL2cvMTFkemRoNzN4bhAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChoInfiruI7X0bfoARoNL2cvMTFkemRoNzN4bhAB&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.943473,
+        "longitude": 32.852852
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "11:00",
+      "rate_per_night": {
+        "lowest": "₺1.531",
+        "extracted_lowest": 1531,
+        "before_taxes_fees": "₺1.367",
+        "extracted_before_taxes_fees": 1367
+      },
+      "total_rate": {
+        "lowest": "₺6.124",
+        "extracted_lowest": 6124,
+        "before_taxes_fees": "₺5.468",
+        "extracted_before_taxes_fees": 5468
+      },
+      "nearby_places": [
+        {
+          "name": "Kurtuluş Savaşı Müzesi (I. TBMM Binası)",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "5 dk."
+            }
+          ]
+        },
+        {
+          "name": "Asbü",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "4 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "29 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "43 dk."
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4 yıldızlı otel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOqshDGaFK1MWzQSxH-ZGt3LTn_sHjZiKuBP6nR=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOqshDGaFK1MWzQSxH-ZGt3LTn_sHjZiKuBP6nR=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNMqvGqcZxXyWwHWqzvG5zYlmQFqTn5vHP2AkNz=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNMqvGqcZxXyWwHWqzvG5zYlmQFqTn5vHP2AkNz=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMbOizSf9Wr74Zb1AP3RccK6Q0xM3lxIBqfhHz7=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMbOizSf9Wr74Zb1AP3RccK6Q0xM3lxIBqfhHz7=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPbTweGRhznc2Qj7Fpj8ttnOYUGu5JXSsafl3Ol=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPbTweGRhznc2Qj7Fpj8ttnOYUGu5JXSsafl3Ol=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPR3N0RymeJ8HxpumT4-h2NUedOwdllFRTuFmCs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPR3N0RymeJ8HxpumT4-h2NUedOwdllFRTuFmCs=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/AL9Nm_1ah2WY9byDLhtD7vr-hHYMPRezRS_ckocaH1KVUA0Q0jf9ASUqAZt52gaOKd91d2KsJrlxCDs_6wQWuaOYtWHHXiuRB_ZG7XY0b345HpAIM2fMOYzR1pgLml-d0iEsQ-ClN9ZyZ7unVhj6NIf9fFHaMQI=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/19000000/18600000/18592000/18591963/018eb63f_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/FprOEXmMKkPG9z-F-9Z56UNfm7njFo0Fb6RAi8YraOKIw7y6cgitSYe7r7B96KWa3onjRwWYVZt27lJhPfg_0VPAFEHvIo-k-YfgsJMcGO9pxBDaFoILZHMXoLeNYhCYNtOko6I1OB0l5vPwmZInPux3gAEbhbU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/19000000/18600000/18592000/18591963/46b9c003_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/0bSeeIorwpuFMl9Pdr9fvhYY7u6PUZXnxYDMlMERYdi7nPI7iGKZLX2FgbKXjMeFXDgqnJuectqSBxrPXp5dDGM5owdG3J5mWPc7ua-XDMtCx6qvH3LXqpfvnjs0qqbCa4p_o2ylZX3ak6WHEk3gJ09E8g3waA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/bf/0e/bf0e348f4327b64ace80fc6862c3a960adc142b6.jpeg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMslBYBiZqjxezY4g8E12KTclzbwIUDmVTiIiQf=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMslBYBiZqjxezY4g8E12KTclzbwIUDmVTiIiQf=s10000"
+        }
+      ],
+      "overall_rating": 4,
+      "reviews": 971,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 537
+        },
+        {
+          "stars": 4,
+          "count": 176
+        },
+        {
+          "stars": 3,
+          "count": 106
+        },
+        {
+          "stars": 2,
+          "count": 60
+        },
+        {
+          "stars": 1,
+          "count": 92
+        }
+      ],
+      "location_rating": 4.5,
+      "reviews_breakdown": [
+        {
+          "name": "Kahvaltı",
+          "description": "Breakfast",
+          "total_mentioned": 124,
+          "positive": 95,
+          "negative": 13,
+          "neutral": 16
+        },
+        {
+          "name": "Mutfak",
+          "description": "Kitchen",
+          "total_mentioned": 26,
+          "positive": 14,
+          "negative": 10,
+          "neutral": 2
+        },
+        {
+          "name": "Konum",
+          "description": "Location",
+          "total_mentioned": 114,
+          "positive": 72,
+          "negative": 21,
+          "neutral": 21
+        },
+        {
+          "name": "Aile",
+          "description": "Family friendly",
+          "total_mentioned": 56,
+          "positive": 48,
+          "negative": 5,
+          "neutral": 3
+        },
+        {
+          "name": "Restoran",
+          "description": "Restaurant",
+          "total_mentioned": 52,
+          "positive": 40,
+          "negative": 4,
+          "neutral": 8
+        },
+        {
+          "name": "Temizlik",
+          "description": "Cleanliness",
+          "total_mentioned": 210,
+          "positive": 167,
+          "negative": 32,
+          "neutral": 11
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Restaurant",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Child-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Ankara Koza Suite Hotel",
+      "description": "Dünya mutfağından lezzetler sunan sakin restoranı, samimi odaları ve ücretsiz WiFi bağlantısıyla rahat otel.",
+      "link": "http://www.kozaotel.com.tr/",
+      "property_token": "ChkIg5azoZyhkvmmARoML2cvMWhjM2o2anhjEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChkIg5azoZyhkvmmARoML2cvMWhjM2o2anhjEAE&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.891827299999996,
+        "longitude": 32.8777776
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "12:00",
+      "rate_per_night": {
+        "lowest": "₺2.038",
+        "extracted_lowest": 2038,
+        "before_taxes_fees": "₺1.820",
+        "extracted_before_taxes_fees": 1820
+      },
+      "total_rate": {
+        "lowest": "₺8.153",
+        "extracted_lowest": 8153,
+        "before_taxes_fees": "₺7.279",
+        "extracted_before_taxes_fees": 7279
+      },
+      "deal": "Normalden %18 daha az",
+      "deal_description": "Deal",
+      "nearby_places": [
+        {
+          "name": "Kuğulu Park",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 dk."
+            }
+          ]
+        },
+        {
+          "name": "Anadolu Lisesi",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "4 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "44 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa. 15 dk."
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4 yıldızlı otel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/T_cQuYt8h299xrNLWz-2Akhb5KBkouJ3joa48Qc4SP8oFKBapPl7snuFJOlnkat1ZZb1am9rsnUSw0Hqmznbog7p1je1ARE8vxkz8gpQ8-eceZejZ2ZSh82mj_Lzk9E6L_1XzVphYejb80DNzRMd81UzWDQ4jw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/57/575649/575649a_hb_l_002.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/LToJXkbzwhEqMaJJLMHrgKPISORNbmsxYiMUNdqQ3Piw8TTJ9tiHBfjmNC92p4MofsiM0Ugn5u7EEFu67srRam1e66XVoQcjwhCsuEFzmv-vTeLHEvpMg1JXgP6IkX_Srb-Rq73syN1X_HzPDr1oqzsZAwFpTg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/7000000/6560000/6553800/6553775/99a3e691_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/1Ck_praKs5bYt5yBCap1UJW600SiJcuf2LhJCrkgJoeJFebbo4_REXCzdUdJWSxMqC36AzsjRaqHdUXkWVJ54DPCAtcKc5co2EUo94NezGI9TmsBl5i4-WBqDF5mpllcSFyxOpo8v8mQnUkyH1aNPJQV2InJcA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/57/575649/575649a_hb_ro_014.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP8Vn0AYsHY3QDlr1cHexjeEwrrxtT8jD_ZGrO6=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP8Vn0AYsHY3QDlr1cHexjeEwrrxtT8jD_ZGrO6=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNXyTsaUB2Iau8teaWFXhOZDO1tRH_-CDN5QZ6t=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNXyTsaUB2Iau8teaWFXhOZDO1tRH_-CDN5QZ6t=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/V9Uotn1wM_VX2UTHY0wq78JEMkw62CN517yhp6rCufo1rjUTE88R7X6NJbylCy8c5X5CE3XMtdVBrh4lNsebVC9ZKvjeqYp5Ucry2gYajRt4MQZiZdiPsRLbCSyANvTHSOzoK39HsrDCCTP03KgYfU0eu4sdJQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/57/575649/575649a_hb_r_003.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/aeRaUzJNlOyWO_15u9Mjr2L3wU2Z5nciswASz6sxKHZ1cy_k8VMuhO7pAd-uBsEK9-kactX5FYp-D3LMbP5S66_2U0ar2Y465znb7hitchUf2U_hRh2THD_iup1yMjR72ZTiTiYO92_6RAShZMd5jm7IbkhXRQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/1c/69/1c695880308c842ccc715ce2451b4879e5823ce4.jpeg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/uuyrrDXwBv6fpB8J8MJbWNuLgMX9tMVvfqglJwUcYDkvHev0Ta0XFqZjHB9-TAxheLIqMuI3BMf5ZOLAaeyHgYwwok1bAQw8JSew5Gs-bPkb6E0DGMVyZmENKXBb1FkyUvnYj4u1WwDC9Eeu9ODCjT5iXCk9Kg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/7000000/6560000/6553800/6553775/4cd43c65_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/4o2uLREoGIL7-X1hifCEHPP9JuMcLeJWnBjR8cjV_tFSB7XkTCTnj6BPmuRKCAqEFRzy8SqF3EmeRgVLR5NuCgURoU3uwv2crgITkuCojU_Ow7zBdtLP_tPH_6R3SSvPKJeWYOzEEYTma4BPGdIggLfT4g7K4UQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/http://media.staticontent.com/media/pictures/3cb695a6-b67b-42f5-bf4f-298c0c5fc7dd=s10000"
+        }
+      ],
+      "overall_rating": 4.3,
+      "reviews": 638,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 402
+        },
+        {
+          "stars": 4,
+          "count": 141
+        },
+        {
+          "stars": 3,
+          "count": 39
+        },
+        {
+          "stars": 2,
+          "count": 24
+        },
+        {
+          "stars": 1,
+          "count": 32
+        }
+      ],
+      "location_rating": 3.1,
+      "reviews_breakdown": [
+        {
+          "name": "Evcil Hayvanlar",
+          "description": "Pets",
+          "total_mentioned": 14,
+          "positive": 10,
+          "negative": 3,
+          "neutral": 1
+        },
+        {
+          "name": "Kahvaltı",
+          "description": "Breakfast",
+          "total_mentioned": 89,
+          "positive": 58,
+          "negative": 18,
+          "neutral": 13
+        },
+        {
+          "name": "Restoran",
+          "description": "Restaurant",
+          "total_mentioned": 42,
+          "positive": 27,
+          "negative": 8,
+          "neutral": 7
+        },
+        {
+          "name": "Hizmet",
+          "description": "Service",
+          "total_mentioned": 148,
+          "positive": 135,
+          "negative": 12,
+          "neutral": 1
+        },
+        {
+          "name": "Temizlik",
+          "description": "Cleanliness",
+          "total_mentioned": 138,
+          "positive": 117,
+          "negative": 15,
+          "neutral": 6
+        },
+        {
+          "name": "Mülk",
+          "description": "Property",
+          "total_mentioned": 149,
+          "positive": 125,
+          "negative": 14,
+          "neutral": 10
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Pet-friendly",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Child-friendly"
+      ],
+      "eco_certified": true
+    },
+    {
+      "type": "hotel",
+      "name": "The Life Hotel & Spa",
+      "description": "Odalarda klima, merkezi ısıtma ve banyo bulunmaktadır. Çoğu odanıntemel donanımı içinde yer alan balkon ve …",
+      "link": "http://thelifehotel.com/",
+      "property_token": "ChoIpNv1v-ritJO9ARoNL2cvMTFtcThzYjFzNRAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChoIpNv1v-ritJO9ARoNL2cvMTFtcThzYjFzNRAB&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.897144999999995,
+        "longitude": 32.865547
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "12:00",
+      "rate_per_night": {
+        "lowest": "₺2.142",
+        "extracted_lowest": 2142,
+        "before_taxes_fees": "₺2.142",
+        "extracted_before_taxes_fees": 2142
+      },
+      "total_rate": {
+        "lowest": "₺8.568",
+        "extracted_lowest": 8568,
+        "before_taxes_fees": "₺8.568",
+        "extracted_before_taxes_fees": 8568
+      },
+      "nearby_places": [
+        {
+          "name": "Kocatepe Camii",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 dk."
+            }
+          ]
+        },
+        {
+          "name": "Arjantin Caddesi",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "41 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa. 6 dk."
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3 yıldızlı otel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNCnuZ_nX4MkRvUz_y3EJZamSr8m4W_Q1x7aPHi=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNCnuZ_nX4MkRvUz_y3EJZamSr8m4W_Q1x7aPHi=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPapcuAF_A6rNMx1ElG-osS1lmxCK39kT1SO0xh=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPapcuAF_A6rNMx1ElG-osS1lmxCK39kT1SO0xh=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOHWjOu0Q3CJpqLBY8E_FvXiI78JCmXIGv20gPu=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOHWjOu0Q3CJpqLBY8E_FvXiI78JCmXIGv20gPu=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPDAK_CRlN_Cjh0H4GYGn2lv0dw1Dg6YsSrSA3L=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPDAK_CRlN_Cjh0H4GYGn2lv0dw1Dg6YsSrSA3L=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPEbJuQlSljciyIVghv1AI_ERbuuBDd41DD_GQ0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPEbJuQlSljciyIVghv1AI_ERbuuBDd41DD_GQ0=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/wJ3HDwFXuI0KcIw1aBB8Xzh6s72aXPAU4u6CLCRZl7ETFyHijOaZ2mtPfmk1IQWfpMG9CpfrWb6wXiXsnUptLFI1X74FgBnA0TD8Z-t0kZaNS6Jqh-Rnel2kjyh8XqOpjtE8BTPjUPBnjmcwEMnYGmOiiIdAZg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/88/881428/881428a_hb_ro_021.jpeg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO42hs2dAVYN_yadWgaEbFX-GC-_1Ka_VL2sezF=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO42hs2dAVYN_yadWgaEbFX-GC-_1Ka_VL2sezF=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNyRjzRkQIBVBD5Onthi9ewzOLVPyR0f6-tiFlK=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNyRjzRkQIBVBD5Onthi9ewzOLVPyR0f6-tiFlK=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM023fbpkYIkz47LGofSBmxTen-Y6Br5NZijEYk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM023fbpkYIkz47LGofSBmxTen-Y6Br5NZijEYk=s10000"
+        }
+      ],
+      "overall_rating": 4.2,
+      "reviews": 336,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 221
+        },
+        {
+          "stars": 4,
+          "count": 42
+        },
+        {
+          "stars": 3,
+          "count": 22
+        },
+        {
+          "stars": 2,
+          "count": 14
+        },
+        {
+          "stars": 1,
+          "count": 37
+        }
+      ],
+      "location_rating": 4.1,
+      "reviews_breakdown": [
+        {
+          "name": "Sağlıklı Yaşam",
+          "description": "Wellness",
+          "total_mentioned": 43,
+          "positive": 37,
+          "negative": 3,
+          "neutral": 3
+        },
+        {
+          "name": "Spa",
+          "description": "Spa",
+          "total_mentioned": 40,
+          "positive": 34,
+          "negative": 3,
+          "neutral": 3
+        },
+        {
+          "name": "Kahvaltı",
+          "description": "Breakfast",
+          "total_mentioned": 80,
+          "positive": 58,
+          "negative": 9,
+          "neutral": 13
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 35,
+          "positive": 31,
+          "negative": 1,
+          "neutral": 3
+        },
+        {
+          "name": "Restoran",
+          "description": "Restaurant",
+          "total_mentioned": 40,
+          "positive": 28,
+          "negative": 2,
+          "neutral": 10
+        },
+        {
+          "name": "Hizmet",
+          "description": "Service",
+          "total_mentioned": 124,
+          "positive": 110,
+          "negative": 10,
+          "neutral": 4
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Hot tub",
+        "Air conditioning",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Child-friendly",
+        "Smoke-free property"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Occidental Ankara",
+      "description": "Spa, lobi barı ve modern bir kafe bulunan şık otelde rahat odalar ve süitler.",
+      "link": "https://www.barcelo.com/en-ww/occidental-ankara/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=37997",
+      "property_token": "ChkI0qXmuYu3q4pLGg0vZy8xMXNwbDIyazRmEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChkI0qXmuYu3q4pLGg0vZy8xMXNwbDIyazRmEAE&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.9025634,
+        "longitude": 32.8618922
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "12:00",
+      "rate_per_night": {
+        "lowest": "₺3.394",
+        "extracted_lowest": 3394,
+        "before_taxes_fees": "₺3.030",
+        "extracted_before_taxes_fees": 3030
+      },
+      "total_rate": {
+        "lowest": "₺13.577",
+        "extracted_lowest": 13577,
+        "before_taxes_fees": "₺12.122",
+        "extracted_before_taxes_fees": 12122
+      },
+      "deal": "Normalden %16 daha az",
+      "deal_description": "Deal",
+      "nearby_places": [
+        {
+          "name": "Kuğulu Park",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 dk."
+            }
+          ]
+        },
+        {
+          "name": "İran Büyükelçiliği",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "3 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "41 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa. 4 dk."
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4 yıldızlı otel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNtxjo4gO6JJ_YRy4RFt_TjDA11o5XZX-PyLTzH=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNtxjo4gO6JJ_YRy4RFt_TjDA11o5XZX-PyLTzH=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPlYe1RUdOMZxzKdLRxeVXswXhgkndVaG-U47dU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPlYe1RUdOMZxzKdLRxeVXswXhgkndVaG-U47dU=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/Cof7jUAE25SPUKK6otE2QpmigNHfMareuucOsisN35Cbns3p-bCFPT69FMdszPWOuifo0jzhlaHroSbVcOqKlEXojWMYtjZ6k6oHgr97a6jNBaqojiQzSM7ERLuKtH5Np6XTJ_pI3A8m6nOQe5wYNFOVlK1pnbI=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://www.iceportal.com/data/2813-146508-f73973004_XXLejpg/Turkey/Ankara/Occidental-Ankara/Photo/Occidental-Ankara-Ankara-Undefined-OANK-GAST.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOs6YZ_hmFMThGYHyNTjDeHAFdA9oFsUwgnBzwe=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOs6YZ_hmFMThGYHyNTjDeHAFdA9oFsUwgnBzwe=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO_J1MIopttXnORjzBTBEQ9pA8ZjWFrie61VJXG=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO_J1MIopttXnORjzBTBEQ9pA8ZjWFrie61VJXG=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMX1rrbR_UfRT7bpXfCRNX8tCcZgIMWDF6tocgs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMX1rrbR_UfRT7bpXfCRNX8tCcZgIMWDF6tocgs=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOIA3aVJEdCmzu9zLculn-OFa4iFM_NmmR4J5DZ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOIA3aVJEdCmzu9zLculn-OFa4iFM_NmmR4J5DZ=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMhDkZLF_YF9XH573T8R652cC66xg5xTiPqKDJj=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMhDkZLF_YF9XH573T8R652cC66xg5xTiPqKDJj=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/TNuOP1oZfzzKCLrGH--H9DEv160LAu_uAhafefLJgMAcRnlkYVrQHfTlDmwGypLsMuifezL6TZ4FzrVHN31_kBFuleDsc7WseG67eAEUxx0hxH5CxTSBao-w4ibkJ39gDYb1efYCQ4xyBkt8YZnVlZAPbaxyPg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/78/6d/786de49953ecd2c7412811cadff481617866e1ea.jpeg"
+        }
+      ],
+      "overall_rating": 4.8,
+      "reviews": 1304,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 1135
+        },
+        {
+          "stars": 4,
+          "count": 117
+        },
+        {
+          "stars": 3,
+          "count": 28
+        },
+        {
+          "stars": 2,
+          "count": 8
+        },
+        {
+          "stars": 1,
+          "count": 16
+        }
+      ],
+      "location_rating": 4.3,
+      "reviews_breakdown": [
+        {
+          "name": "Sağlıklı Yaşam",
+          "description": "Wellness",
+          "total_mentioned": 86,
+          "positive": 66,
+          "negative": 13,
+          "neutral": 7
+        },
+        {
+          "name": "Spa",
+          "description": "Spa",
+          "total_mentioned": 78,
+          "positive": 60,
+          "negative": 12,
+          "neutral": 6
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 157,
+          "positive": 148,
+          "negative": 3,
+          "neutral": 6
+        },
+        {
+          "name": "Kahvaltı",
+          "description": "Breakfast",
+          "total_mentioned": 224,
+          "positive": 202,
+          "negative": 10,
+          "neutral": 12
+        },
+        {
+          "name": "Hizmet",
+          "description": "Service",
+          "total_mentioned": 599,
+          "positive": 576,
+          "negative": 11,
+          "neutral": 12
+        },
+        {
+          "name": "Konum",
+          "description": "Location",
+          "total_mentioned": 289,
+          "positive": 279,
+          "negative": 1,
+          "neutral": 9
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Fitness centre",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Kitchen in some rooms",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Radisson Blu Hotel Ankara",
+      "description": "Ücretsiz kablosuz internet, restoran ve spor salonu sunan, yüksek katlı, zarif ve modern tesis.",
+      "link": "https://www.radissonhotels.com/tr-tr/oteller/radisson-blu-ankara?cid=a:se+b:gmb+c:emea+i:local+e:rdb+d:eerut+h:TRANK1",
+      "property_token": "ChgIj9z6uuXsrqUgGgwvZy8xMTNod3BwZ2sQAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChgIj9z6uuXsrqUgGgwvZy8xMTNod3BwZ2sQAQ&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.939700599999995,
+        "longitude": 32.8515492
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "12:00",
+      "rate_per_night": {
+        "lowest": "₺3.732",
+        "extracted_lowest": 3732,
+        "before_taxes_fees": "₺3.332",
+        "extracted_before_taxes_fees": 3332
+      },
+      "total_rate": {
+        "lowest": "₺14.928",
+        "extracted_lowest": 14928,
+        "before_taxes_fees": "₺13.329",
+        "extracted_before_taxes_fees": 13329
+      },
+      "nearby_places": [
+        {
+          "name": "Cumhuriyet Müzesi (II. TBMM Binası)",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "4 dk."
+            }
+          ]
+        },
+        {
+          "name": "Otel Durağı",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "29 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "45 dk."
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4 yıldızlı otel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNGevaxkNYISWZQHbH-vgryL21IiTp8__S3T_K6=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNGevaxkNYISWZQHbH-vgryL21IiTp8__S3T_K6=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNiZnoFFKsXjVg4Du4tLHMuEaAmgqB3XrEm5DAD=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNiZnoFFKsXjVg4Du4tLHMuEaAmgqB3XrEm5DAD=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/CTUTRxvcxlbFk7J1RGc6px3i81nAaA76nNqw6Haz6GtYRozA6TtvVMyEosgRTTjsdbQIKCXBgEtjcmhveCNgso1TrjiIkBEeCLdnawfY_Zop7xZxXV94CN_8LPuvsLp0bqbpaXvQHcWlc0Jz9Ap0JK-YIt533yU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/zz/e0/ade09163f965514bc75f34ed0f8024d09c4185a8.jpeg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNpegpbIJhjMzhPQCH0POohB3ztAUFpX3OKX2tb=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNpegpbIJhjMzhPQCH0POohB3ztAUFpX3OKX2tb=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMf0edkeracoEeqNZxc0XGOhMwYebtUuG9leeKS=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMf0edkeracoEeqNZxc0XGOhMwYebtUuG9leeKS=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP7e6twx8rAEvIpUaCr5SjHwj_EPo8KEjOR4CLO=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP7e6twx8rAEvIpUaCr5SjHwj_EPo8KEjOR4CLO=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/KGzsJDmjCi1Mhse7bXkpH45WlqVwDPLUFGYuS85AuRI9U6tDzLKJpv7TPNcYfujzVTYHFdGAycAPKFJaG9iw86ufV9Nl761BUBEiMyfZqYLgIixxDnpb4EJ_wR9Sao18eLx3SFzcKFPLN0avVdJgX6UMmXlRbZE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/2000000/1060000/1052300/1052254/2d81c5f4_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPG2ulku6I6Jn6M1oDEqhjfKYfPT0gkxMNXM_gV=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPG2ulku6I6Jn6M1oDEqhjfKYfPT0gkxMNXM_gV=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN0dFdBvlUiNaRPf2G3ts2AUnRk-BTllhxc30hD=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN0dFdBvlUiNaRPf2G3ts2AUnRk-BTllhxc30hD=s10000"
+        }
+      ],
+      "overall_rating": 4.3,
+      "reviews": 4511,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 2936
+        },
+        {
+          "stars": 4,
+          "count": 751
+        },
+        {
+          "stars": 3,
+          "count": 414
+        },
+        {
+          "stars": 2,
+          "count": 160
+        },
+        {
+          "stars": 1,
+          "count": 250
+        }
+      ],
+      "location_rating": 4.0,
+      "reviews_breakdown": [
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 315,
+          "positive": 250,
+          "negative": 47,
+          "neutral": 18
+        },
+        {
+          "name": "Hizmet",
+          "description": "Service",
+          "total_mentioned": 1313,
+          "positive": 1194,
+          "negative": 86,
+          "neutral": 33
+        },
+        {
+          "name": "Kahvaltı",
+          "description": "Breakfast",
+          "total_mentioned": 349,
+          "positive": 231,
+          "negative": 91,
+          "neutral": 27
+        },
+        {
+          "name": "Konum",
+          "description": "Location",
+          "total_mentioned": 469,
+          "positive": 393,
+          "negative": 31,
+          "neutral": 45
+        },
+        {
+          "name": "Oda",
+          "description": "Room amenities",
+          "total_mentioned": 222,
+          "positive": 103,
+          "negative": 95,
+          "neutral": 24
+        },
+        {
+          "name": "Bar",
+          "description": "Bar or lounge",
+          "total_mentioned": 91,
+          "positive": 60,
+          "negative": 18,
+          "neutral": 13
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Fitness centre",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "eco_certified": true
+    },
+    {
+      "type": "hotel",
+      "name": "Hotel İçkale Ankara",
+      "description": "Gösterişli odaları, şık restoran ve kafesi, spa ve havuz olanaklarıyla zarif otel.",
+      "link": "http://www.hotelickale.com/",
+      "property_token": "ChgIq9Kc1aSNg7mHARoLL2cvMXRqYmJqZDAQAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChgIq9Kc1aSNg7mHARoLL2cvMXRqYmJqZDAQAQ&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.930250199999996,
+        "longitude": 32.844640999999996
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "12:00",
+      "rate_per_night": {
+        "lowest": "₺2.407",
+        "extracted_lowest": 2407,
+        "before_taxes_fees": "₺2.407",
+        "extracted_before_taxes_fees": 2407
+      },
+      "total_rate": {
+        "lowest": "₺9.629",
+        "extracted_lowest": 9629,
+        "before_taxes_fees": "₺9.629",
+        "extracted_before_taxes_fees": 9629
+      },
+      "deal": "Normalden %23 daha az",
+      "deal_description": "Deal",
+      "nearby_places": [
+        {
+          "name": "Anıtkabir",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "4 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "10 dk."
+            }
+          ]
+        },
+        {
+          "name": "Vehbi Koç Yurdu",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "34 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "58 dk."
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5 yıldızlı otel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNuMm1ud6fZ1UOoD5Yce9IWqL1LKGZieWQ1Bnx3=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNuMm1ud6fZ1UOoD5Yce9IWqL1LKGZieWQ1Bnx3=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO-zGyWgMx6FlN-ICJSy8LTohlaD3LKzy1x2Scu=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO-zGyWgMx6FlN-ICJSy8LTohlaD3LKzy1x2Scu=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/FLP-sX6mBtkVd8LANqMUckcEfsZFNDcTqW85l-qz14kzPsvpCUc-jlQ6IBTeQyBcXoxwvZ4RyfNXkt6ozOTMQGogAZ6GnrIJXAP2PHUvyDXpn1X7V9alz28kPmXSqCiBDDrs8nTNA2aMjKlVOhHEz9vKnQZwLtQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/20/91/20915922ac496dec68776d3b032fe12274403f96.jpeg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNyA-5lNy5O92yTPIZXPbiCgI7wJm_Ina1qR6I8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNyA-5lNy5O92yTPIZXPbiCgI7wJm_Ina1qR6I8=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOfgUOqotYMd_U8oyCvZ1HJJ3sjYJN8bJLIcfMA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOfgUOqotYMd_U8oyCvZ1HJJ3sjYJN8bJLIcfMA=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPHzq0Vmut8tlpsXDoP8yC95ycz5pdh8lNHrb9h=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPHzq0Vmut8tlpsXDoP8yC95ycz5pdh8lNHrb9h=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPj5SvlFwFrzc627OZ3v6X47VZyhcfm1m5-gl-5=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPj5SvlFwFrzc627OZ3v6X47VZyhcfm1m5-gl-5=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/4S_0PWsh2VOpwKTph5Yr83DDNkHYbfP1r2V8ZSWTCBbnfC8aMCefHWrBPL7QHEn7LL5lExQsiPpb9ARzj8IUvVyCl4hE7jjdSv8TNCELPoCw3anMC_ZgPe0JQlqvoqo-gugv9HtcDaWsyyDWtAYjbGLot_LFqC0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/2000000/1060000/1052400/1052384/ff7f139e_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/Kz1zUVCF29vIpoFbe3AOUaXEbrAW8_jmhgdOzcXHdlxpgCH-9Yw7lcFQOLdj6lC3KNLtalKetm2cZNWgNSs7TC_znZPuTLFucbCWl2CF7CK8sZIyLwA3zH3arS2q1Hfz97ShgGZN7bQYBWohmd4GIQr9YgVDAD4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/2000000/1060000/1052400/1052384/971ad638_z.jpg"
+        }
+      ],
+      "overall_rating": 3.9,
+      "reviews": 2395,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 1132
+        },
+        {
+          "stars": 4,
+          "count": 531
+        },
+        {
+          "stars": 3,
+          "count": 370
+        },
+        {
+          "stars": 2,
+          "count": 142
+        },
+        {
+          "stars": 1,
+          "count": 220
+        }
+      ],
+      "location_rating": 4.4,
+      "reviews_breakdown": [
+        {
+          "name": "Sağlıklı Yaşam",
+          "description": "Wellness",
+          "total_mentioned": 76,
+          "positive": 49,
+          "negative": 16,
+          "neutral": 11
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 68,
+          "positive": 30,
+          "negative": 30,
+          "neutral": 8
+        },
+        {
+          "name": "Spa",
+          "description": "Spa",
+          "total_mentioned": 62,
+          "positive": 41,
+          "negative": 14,
+          "neutral": 7
+        },
+        {
+          "name": "Havuz",
+          "description": "Pool",
+          "total_mentioned": 33,
+          "positive": 18,
+          "negative": 12,
+          "neutral": 3
+        },
+        {
+          "name": "Kahvaltı",
+          "description": "Breakfast",
+          "total_mentioned": 143,
+          "positive": 80,
+          "negative": 53,
+          "neutral": 10
+        },
+        {
+          "name": "Konum",
+          "description": "Location",
+          "total_mentioned": 231,
+          "positive": 178,
+          "negative": 23,
+          "neutral": 30
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business centre",
+        "Child-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Deeps Hostel Ankara 2",
+      "link": "http://www.turkeyhostel.com/",
+      "property_token": "ChkI9vfvrpmErcU-Gg0vZy8xMXRycXhrcDRiEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChkI9vfvrpmErcU-Gg0vZy8xMXRycXhrcDRiEAE&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.915453299999996,
+        "longitude": 32.8618728
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "11:00",
+      "rate_per_night": {
+        "lowest": "₺1.280",
+        "extracted_lowest": 1280,
+        "before_taxes_fees": "₺1.143",
+        "extracted_before_taxes_fees": 1143
+      },
+      "total_rate": {
+        "lowest": "₺5.121",
+        "extracted_lowest": 5121,
+        "before_taxes_fees": "₺4.572",
+        "extracted_before_taxes_fees": 4572
+      },
+      "deal": "Normalden %41 daha az",
+      "deal_description": "Great Deal",
+      "nearby_places": [
+        {
+          "name": "Kocatepe Camii",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "3 dk."
+            }
+          ]
+        },
+        {
+          "name": "Hacıyolu Sokak",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "5 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "35 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa. 2 dk."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMxnaI7PTLypCLHZxb4fWBa-V6tIqfQj6Yodkgc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMxnaI7PTLypCLHZxb4fWBa-V6tIqfQj6Yodkgc=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOb7Zeu1yGM9-MFtCKcvLba6JQdrXz827GWWkTT=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOb7Zeu1yGM9-MFtCKcvLba6JQdrXz827GWWkTT=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNXkaw4E6-a0pztSMExQAD7PE43eSS8Dgj8r9PH=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNXkaw4E6-a0pztSMExQAD7PE43eSS8Dgj8r9PH=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMMCfYK42gkkLyBEe7S6TSNDHgORlAuhmRbe-AV=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMMCfYK42gkkLyBEe7S6TSNDHgORlAuhmRbe-AV=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/FJFJw-0Ggx9fxp1PxmnvaF2PZaViP7DeJMTMSTMUW2yqYwsWEh_T9ek91bbDDQ42S66IOSEDs36XntCyZqs4OtJsgG88F_LzCeOEY0RuB_vm-l2z_CEsLfdjcV0n0bmuGdKcfYD8f6II3L-PK6q0aCkm8c5XrQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/92000000/91010000/91005600/91005545/d26d8d5b_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/6fcktc7ClUc8GZKBXnObdaDjTgbkMjBn-3LqjcSuTlNS_NlFvhs2RT7o6mXCwYywPOdoH0EpYh0WOZzFiZDselpn-_EQJIs8xQN9XkVoFlifa_UqnyARQvW-pZF1_BwriuHl-1xTaTj9reVByR0KHEyFI8Q7ow=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/92000000/91010000/91005600/91005545/738afa3f_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP48G4Fkxz8zDBQegjSho5ksU0u1zDkC8tAfJgb=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP48G4Fkxz8zDBQegjSho5ksU0u1zDkC8tAfJgb=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNTUdoXgGZqvpSCtjyq2jSQaa9U5S0I7A8dBmjp=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNTUdoXgGZqvpSCtjyq2jSQaa9U5S0I7A8dBmjp=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNoXB9dfJffGACuoGMF-UYD3Xk2Yn_3IENj0HjV=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNoXB9dfJffGACuoGMF-UYD3Xk2Yn_3IENj0HjV=s10000"
+        }
+      ],
+      "overall_rating": 4.3,
+      "reviews": 149,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 97
+        },
+        {
+          "stars": 4,
+          "count": 32
+        },
+        {
+          "stars": 3,
+          "count": 6
+        },
+        {
+          "stars": 2,
+          "count": 3
+        },
+        {
+          "stars": 1,
+          "count": 11
+        }
+      ],
+      "location_rating": 3.7,
+      "reviews_breakdown": [
+        {
+          "name": "Mutfak",
+          "description": "Kitchen",
+          "total_mentioned": 14,
+          "positive": 9,
+          "negative": 2,
+          "neutral": 3
+        },
+        {
+          "name": "Banyo",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 26,
+          "positive": 13,
+          "negative": 7,
+          "neutral": 6
+        },
+        {
+          "name": "Konum",
+          "description": "Location",
+          "total_mentioned": 44,
+          "positive": 34,
+          "negative": 5,
+          "neutral": 5
+        },
+        {
+          "name": "Uyku",
+          "description": "Sleep",
+          "total_mentioned": 17,
+          "positive": 10,
+          "negative": 5,
+          "neutral": 2
+        },
+        {
+          "name": "Toplu Taşıma",
+          "description": "Public transit",
+          "total_mentioned": 6,
+          "positive": 3,
+          "negative": 2,
+          "neutral": 1
+        },
+        {
+          "name": "Temizlik",
+          "description": "Cleanliness",
+          "total_mentioned": 52,
+          "positive": 40,
+          "negative": 5,
+          "neutral": 7
+        }
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Deeps Hostel Ankara",
+      "description": "Ortak mutfağa ve televizyon salonuna sahip olan rahat hostelde kullanışlı, karma yatakhaneler.",
+      "link": "http://www.turkeyhostel.com/ankara",
+      "property_token": "ChkIl6ja-vH387T0ARoML2cvMWhjMTBsMDR2EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChkIl6ja-vH387T0ARoML2cvMWhjMTBsMDR2EAE&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.921842999999996,
+        "longitude": 32.860129
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "11:00",
+      "rate_per_night": {
+        "lowest": "₺1.162",
+        "extracted_lowest": 1162,
+        "before_taxes_fees": "₺1.037",
+        "extracted_before_taxes_fees": 1037
+      },
+      "total_rate": {
+        "lowest": "₺4.648",
+        "extracted_lowest": 4648,
+        "before_taxes_fees": "₺4.150",
+        "extracted_before_taxes_fees": 4150
+      },
+      "nearby_places": [
+        {
+          "name": "Kocatepe Camii",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "10 dk."
+            }
+          ]
+        },
+        {
+          "name": "Çiloğlu İş Hanı",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "36 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "56 dk."
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3 yıldızlı otel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/7ApSyF7tw3OF8gdQ1VR1lDunPOScTgU9Fcm5uDboL63YosiKxF4p6cJYTm1lMoX9GPvW72ZDA9j6DJZeNOk7NM3IVXXYC_lKv75kRf7jNt5HdbyT8tNuI2syOAYuKfeDIou2guHq2Hhr5zcDm-Gr3aIAxrAkwgo=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/10000000/9990000/9988100/9988071/00316aa6_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOwXavDV7q5AFcP_XN495U0DgRYLQ2r3CVaruG1=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOwXavDV7q5AFcP_XN495U0DgRYLQ2r3CVaruG1=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPgQLLsZFZ2mGPx6X8GNJnagK3sF78ZtsPCnZC3=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPgQLLsZFZ2mGPx6X8GNJnagK3sF78ZtsPCnZC3=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOeTnzeLNPlWNCFhhQgErx5h-mWQgkCavB1e9_M=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOeTnzeLNPlWNCFhhQgErx5h-mWQgkCavB1e9_M=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPGkIiBnNsq3pss8IpXfbFTaVFASmmdobyNzDix=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPGkIiBnNsq3pss8IpXfbFTaVFASmmdobyNzDix=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMIikxEQcE0WijqFdUofF9YXJYR6dg3yFaXz2Kw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMIikxEQcE0WijqFdUofF9YXJYR6dg3yFaXz2Kw=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMUoidVUKtoR5RNc0duvRl9huskkUazYktNCCaI=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMUoidVUKtoR5RNc0duvRl9huskkUazYktNCCaI=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO_dsGAtKLivuY3D5UbJEkeb05nnalfQRcGk7qQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO_dsGAtKLivuY3D5UbJEkeb05nnalfQRcGk7qQ=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOSonc5KXpjW-IxQyB2kurF9vZm8c48LmEJbyxF=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOSonc5KXpjW-IxQyB2kurF9vZm8c48LmEJbyxF=s10000"
+        }
+      ],
+      "overall_rating": 3.9,
+      "reviews": 951,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 501
+        },
+        {
+          "stars": 4,
+          "count": 172
+        },
+        {
+          "stars": 3,
+          "count": 104
+        },
+        {
+          "stars": 2,
+          "count": 54
+        },
+        {
+          "stars": 1,
+          "count": 120
+        }
+      ],
+      "location_rating": 4.8,
+      "reviews_breakdown": [
+        {
+          "name": "Mutfak",
+          "description": "Kitchen",
+          "total_mentioned": 54,
+          "positive": 38,
+          "negative": 14,
+          "neutral": 2
+        },
+        {
+          "name": "Banyo",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 119,
+          "positive": 49,
+          "negative": 58,
+          "neutral": 12
+        },
+        {
+          "name": "Uyku",
+          "description": "Sleep",
+          "total_mentioned": 99,
+          "positive": 42,
+          "negative": 42,
+          "neutral": 15
+        },
+        {
+          "name": "Konum",
+          "description": "Location",
+          "total_mentioned": 162,
+          "positive": 131,
+          "negative": 13,
+          "neutral": 18
+        },
+        {
+          "name": "Temizlik",
+          "description": "Cleanliness",
+          "total_mentioned": 209,
+          "positive": 150,
+          "negative": 48,
+          "neutral": 11
+        },
+        {
+          "name": "Toplu Taşıma",
+          "description": "Public transit",
+          "total_mentioned": 20,
+          "positive": 17,
+          "negative": 2,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Full-service laundry",
+        "Smoke-free property"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "ANATOLİA LUXURY HOTEL",
+      "description": "Odalarda merkezi ısıtma bulunmaktadır. Odalarda çift kişilik bir yatak, bir \"Queensize\" yatak, bir \"Kingsize\" …",
+      "property_token": "ChoIvK2p5faF5MnbARoNL2cvMTFzYjk2MjlxaxAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChoIvK2p5faF5MnbARoNL2cvMTFzYjk2MjlxaxAB&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.9179823,
+        "longitude": 32.8619299
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "12:00",
+      "rate_per_night": {
+        "lowest": "₺3.600",
+        "extracted_lowest": 3600,
+        "before_taxes_fees": "₺3.600",
+        "extracted_before_taxes_fees": 3600
+      },
+      "total_rate": {
+        "lowest": "₺14.400",
+        "extracted_lowest": 14400,
+        "before_taxes_fees": "₺14.400",
+        "extracted_before_taxes_fees": 14400
+      },
+      "nearby_places": [
+        {
+          "name": "Kocatepe Camii",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "4 dk."
+            }
+          ]
+        },
+        {
+          "name": "Durmaz Cami",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "5 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "36 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa. 1 dk."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMaVV7sdiAeEXYOCLDMWAxI_9PuRpcclny4ZsjA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMaVV7sdiAeEXYOCLDMWAxI_9PuRpcclny4ZsjA=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNrW4aTsC1mf5hd1u7toUM766ldANFwxoNfw9ZW=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNrW4aTsC1mf5hd1u7toUM766ldANFwxoNfw9ZW=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM4SnGLF4Lr5ZAwfFHB9Wfod2qd1W0eJJ4aUBJq=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM4SnGLF4Lr5ZAwfFHB9Wfod2qd1W0eJJ4aUBJq=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMYo-972OO69rsaSsFPAtmtn5hKG7TUpSLVOnlj=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMYo-972OO69rsaSsFPAtmtn5hKG7TUpSLVOnlj=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP2p4GGvLZRQzipMVVCQZ3tTTFV418wePfpmedR=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP2p4GGvLZRQzipMVVCQZ3tTTFV418wePfpmedR=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOglgi0NBlebXNx1-9SokECBhsgGCL6okzUgUFA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOglgi0NBlebXNx1-9SokECBhsgGCL6okzUgUFA=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO_fpqceBs7l2kxNuGSsimV7bKk7hj-ACG6eR23=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO_fpqceBs7l2kxNuGSsimV7bKk7hj-ACG6eR23=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNXvqRSFoOfWAzmsTcDWJKyhDVfp-1BThq-e4YQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNXvqRSFoOfWAzmsTcDWJKyhDVfp-1BThq-e4YQ=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMqNYTyf_uTKHQGNK_DxANpiSwkorL6tU7j-llo=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMqNYTyf_uTKHQGNK_DxANpiSwkorL6tU7j-llo=s10000"
+        }
+      ],
+      "overall_rating": 4.5,
+      "reviews": 1194,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 927
+        },
+        {
+          "stars": 4,
+          "count": 128
+        },
+        {
+          "stars": 3,
+          "count": 44
+        },
+        {
+          "stars": 2,
+          "count": 28
+        },
+        {
+          "stars": 1,
+          "count": 67
+        }
+      ],
+      "location_rating": 4.3,
+      "reviews_breakdown": [
+        {
+          "name": "Hizmet",
+          "description": "Service",
+          "total_mentioned": 401,
+          "positive": 369,
+          "negative": 25,
+          "neutral": 7
+        },
+        {
+          "name": "Temizlik",
+          "description": "Cleanliness",
+          "total_mentioned": 302,
+          "positive": 256,
+          "negative": 40,
+          "neutral": 6
+        },
+        {
+          "name": "Kahvaltı",
+          "description": "Breakfast",
+          "total_mentioned": 98,
+          "positive": 71,
+          "negative": 19,
+          "neutral": 8
+        },
+        {
+          "name": "Konum",
+          "description": "Location",
+          "total_mentioned": 165,
+          "positive": 135,
+          "negative": 13,
+          "neutral": 17
+        },
+        {
+          "name": "Uyku",
+          "description": "Sleep",
+          "total_mentioned": 80,
+          "positive": 26,
+          "negative": 47,
+          "neutral": 7
+        },
+        {
+          "name": "Mülk",
+          "description": "Property",
+          "total_mentioned": 329,
+          "positive": 266,
+          "negative": 46,
+          "neutral": 17
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Hot tub",
+        "Air conditioning",
+        "Spa",
+        "Restaurant",
+        "Room service",
+        "Kitchen in some rooms",
+        "Accessible",
+        "Smoke-free property"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Apart Hotel Best, Ankara",
+      "description": "Sauna, havuz ve spor salonu olan rahat apart otelde mini mutfaklı modern daireler.",
+      "link": "http://www.bestapart.com.tr/",
+      "property_token": "ChgIh8_75a6JxbncARoLL2cvMXYwYnZ6cm4QAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChgIh8_75a6JxbncARoLL2cvMXYwYnZ6cm4QAQ&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.8973826,
+        "longitude": 32.8788103
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "12:00",
+      "rate_per_night": {
+        "lowest": "₺2.133",
+        "extracted_lowest": 2133,
+        "before_taxes_fees": "₺2.133",
+        "extracted_before_taxes_fees": 2133
+      },
+      "total_rate": {
+        "lowest": "₺8.532",
+        "extracted_lowest": 8532,
+        "before_taxes_fees": "₺8.532",
+        "extracted_before_taxes_fees": 8532
+      },
+      "nearby_places": [
+        {
+          "name": "Kuğulu Park",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 dk."
+            }
+          ]
+        },
+        {
+          "name": "Vedat Dalokay Son Durak",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "4 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "43 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa. 15 dk."
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4 yıldızlı otel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOl6Qjci4MF_f38ZregiiROQ-GHyckFZVnFQndU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOl6Qjci4MF_f38ZregiiROQ-GHyckFZVnFQndU=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPdVeX0AM_7-MjFf4PM4eeqC2_GvSGvqGiQBfVT=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPdVeX0AM_7-MjFf4PM4eeqC2_GvSGvqGiQBfVT=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/Rwuj9623X5to-39ogAj6gFEMF74ZFHKDQHf2My13JU6yI-N1ehiJecj5u2GZ92H-lYhb1lf5mJdHY0lia5hR6GZTTUXwQHhwqeXdzwbadSJMbE_cy24yEZZAX4tGvbz6ChBi9qyh8r56tXRHAe6cYj4eF_S5wso=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/1000000/800000/795900/795883/d7641d3f_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/5P2i8RqFXQlTba-697Z9Y--1pVqc0cD5dCUuF4hQ1zW5YFernWjywrQotRf4hIWIEDU5xHn7aHY-rocoqAxnZcDSgaf_OZvscNtjaSf7zMW9pxzE5a8cOOOFQAmgX791sJR0Et4Avn4oRo_xvCWzTl-UXgpuCUE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/61/618834/618834a_hb_ro_021.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/unJR_8EFrZMl3bLbP3uOYrZQ_k8OWINR4XqU9F-X8s34-g3CCkyCUCZk_8wM31em0eM3WQ10OIO-_yOQNguy-NF3V0kMAfwS4X87b92L-9AWzkppKCxjRuQ6IPGrh_rKWHV0LwpfDqHhAQM9qHvgQmGCG_1-Wew=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://www.iceportal.com/data/2813-50903-f7431981_XXLejpg/Turkey/ANKARA/Apart-Hotel-Best/Photo/Apart-Hotel-Best-ANKARA-Undefined-Exterior.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/d9BaYXoeTVDIzPlCro4sGnIKP-yJmoiowV_7j_EUXvT2_CpAZm9PCpP7Gp8RdSO___-v06AwGYLM-XRhSMMKKNeul3-QLnhjF4HP3f00FQkLjZBrINX_GJcqlvY7s3DEX0mq9IFCdZJI1SCYKOz6mj2oZCg5gtQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/61/618834/618834a_hb_k_003.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/MHcgmboGaFhc0odfDq5OhHmkdPYa_P0-izmOueoLpLPo6rRny8TS5p0bsGEGsmkTsNnZ5b3UteV_tNbWYacJa7FmokfZFelSvRoagmGFAXeco0srhKHuLxN-2bgc6r_ohXrJWvLh_FvINSj7Luz3mtjvQ3FG01I=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/61/618834/618834a_hb_f_006.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/P0ZuBwf6Cq6tfCKZDqvEsRSpQABhPkbhIqPhHbi2UNEbZX-ySlhPMWCOYspyTl5wdTLi2QcvMWDQXm-Gi8KJP2DgL320yZsTYcbG8k_AlKdniDbluDR5RnqfbrlLoXsK_KD9MMKwVjrQVmK3Y-m98L_j9KlZHQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/c5/72/c572118d2bbc3e3e59d9aa1de6146f24c86886fb.jpeg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/0NoXX6Hta-U367vSzcvr2mfYpxDkggnI6DwUSCRI45YbwVORD-E1_kZE8fSzdRv1DkBlFAmact95XAUIXQeIZHQUaCwE5vQw9F-xdwJtCUx08sMcaVU3D-TrwOkDyzBLWKdn3t2bcBoGLKXfwxYaI4-gUNIzE2k=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/1000000/800000/795900/795883/c490f962_z.jpg"
+        }
+      ],
+      "overall_rating": 4.2,
+      "reviews": 300,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 167
+        },
+        {
+          "stars": 4,
+          "count": 68
+        },
+        {
+          "stars": 3,
+          "count": 33
+        },
+        {
+          "stars": 2,
+          "count": 13
+        },
+        {
+          "stars": 1,
+          "count": 19
+        }
+      ],
+      "location_rating": 3.2,
+      "reviews_breakdown": [
+        {
+          "name": "Evcil Hayvanlar",
+          "description": "Pets",
+          "total_mentioned": 8,
+          "positive": 8,
+          "negative": 0,
+          "neutral": 0
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 9,
+          "positive": 7,
+          "negative": 2,
+          "neutral": 0
+        },
+        {
+          "name": "Havuz",
+          "description": "Pool",
+          "total_mentioned": 7,
+          "positive": 5,
+          "negative": 1,
+          "neutral": 1
+        },
+        {
+          "name": "Mutfak",
+          "description": "Kitchen",
+          "total_mentioned": 8,
+          "positive": 3,
+          "negative": 1,
+          "neutral": 4
+        },
+        {
+          "name": "Hizmet",
+          "description": "Service",
+          "total_mentioned": 63,
+          "positive": 46,
+          "negative": 11,
+          "neutral": 6
+        },
+        {
+          "name": "Oda",
+          "description": "Room amenities",
+          "total_mentioned": 20,
+          "positive": 10,
+          "negative": 6,
+          "neutral": 4
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Kitchen in some rooms",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business centre",
+        "Child-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Cadence Design Hotel",
+      "description": "Restoran ve ücretsiz otopark bulunan zarif otelde ev konforunda, şehir manzaralı oda ve süitler.",
+      "link": "http://www.cadencehotel.com/",
+      "property_token": "ChkI3bX4_bOyicFlGg0vZy8xMWNsaHJ2bW1fEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChkI3bX4_bOyicFlGg0vZy8xMWNsaHJ2bW1fEAE&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.8970647,
+        "longitude": 32.8725568
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "12:00",
+      "rate_per_night": {
+        "lowest": "₺1.718",
+        "extracted_lowest": 1718,
+        "before_taxes_fees": "₺1.718",
+        "extracted_before_taxes_fees": 1718
+      },
+      "total_rate": {
+        "lowest": "₺6.874",
+        "extracted_lowest": 6874,
+        "before_taxes_fees": "₺6.874",
+        "extracted_before_taxes_fees": 6874
+      },
+      "nearby_places": [
+        {
+          "name": "Kocatepe Camii",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 dk."
+            }
+          ]
+        },
+        {
+          "name": "Lösev Hastanesi",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "42 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa. 9 dk."
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5 yıldızlı otel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/y8LBG29pxcTVEE7XhSL6nkhHVy49Kgb9PwaCLYq4S6qYpA6vDEMggIb-vwzJE3I77t-01HhMVf9UxlVoaQpMcc5TApEncLOW95LVqmHzlJM5zplsVwIHvNpuPHyHecGaEP6GhsxTr_GEDI8eVIfsAR6_5HG8QfE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/fd/56/fd56b366112c50fe59e2e2887bb5f881be9fd47d.jpeg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP5WBqdJ-FiIvUXzJtlRYMircbqUeIfH26SNeUz=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP5WBqdJ-FiIvUXzJtlRYMircbqUeIfH26SNeUz=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/PxN5sRGFU3AVn_EAzpYqb4FWtmVtg5-T-Gszm0W36VCXfbSNNcehdBHawRYjJrKbAqyz2RI32nHVi2X8KtMjDJ3UmDWq801QH_40GT1AQa_uu2yJAEDHZkUEkFF_1Yu6o5hM9V8IHRCpUYDIeUZTqqjMVNSN3IM=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/44/67/f7/photo0jpg.jpg?w=1900&h=1400&s=1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/nqcQGC57QmprpVSAl8VVD1vg1I5VAc9wMSIJkQUGvzxeZVT5qcEZkSJlhYAoZeGOZHo6LuigkrzN9qH_DxYy9CZvvyO76mZEQIEMAOiq3O1GL2Sev24PUmDDw9RPST98nLh8ySCue7CWbHoNIgRgPVH_-7mHHQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/42/7d/427da09241d0f621d17edbcf08dded2d7571c0d3.jpeg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/YjnPbfDUdow1HYOPjhejx0j2WlU3c73dxALkBvnVk4HheBnnGLBPcYs0Wyd-qWzQtm42N_3bKJt_hAy_ujijwiRTVj2EKeyvCW8yhsOCWfo9CO0uja74s6aVnzRi0VW27ikCYqnFeDysbRQSHZCpjk25RdfV0u0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/fa/f5/73/caption.jpg?w=1900&h=1400&s=1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNDMoeEY1X1OTc7q7OZEqC1vJxn1koj5zdWnZ2r=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNDMoeEY1X1OTc7q7OZEqC1vJxn1koj5zdWnZ2r=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipODjgcGN8F-KNa4FU0_dtIEoljFrnaUtoanYj8K=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipODjgcGN8F-KNa4FU0_dtIEoljFrnaUtoanYj8K=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNYn-ekMPMb6baC-ov69UnHZ3U9KU1Y_gpTYaG3=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNYn-ekMPMb6baC-ov69UnHZ3U9KU1Y_gpTYaG3=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMvkAkVSu2jsMxyin1w2O9A4UQT-g3TAVI9dimB=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMvkAkVSu2jsMxyin1w2O9A4UQT-g3TAVI9dimB=s10000"
+        }
+      ],
+      "overall_rating": 3.8,
+      "reviews": 609,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 345
+        },
+        {
+          "stars": 4,
+          "count": 69
+        },
+        {
+          "stars": 3,
+          "count": 41
+        },
+        {
+          "stars": 2,
+          "count": 38
+        },
+        {
+          "stars": 1,
+          "count": 116
+        }
+      ],
+      "location_rating": 3.7,
+      "reviews_breakdown": [
+        {
+          "name": "Otopark",
+          "description": "Parking",
+          "total_mentioned": 30,
+          "positive": 17,
+          "negative": 12,
+          "neutral": 1
+        },
+        {
+          "name": "Oda",
+          "description": "Room amenities",
+          "total_mentioned": 57,
+          "positive": 11,
+          "negative": 41,
+          "neutral": 5
+        },
+        {
+          "name": "Klima",
+          "description": "Air conditioning",
+          "total_mentioned": 27,
+          "positive": 0,
+          "negative": 26,
+          "neutral": 1
+        },
+        {
+          "name": "Gece Hayatı",
+          "description": "Nightlife",
+          "total_mentioned": 12,
+          "positive": 4,
+          "negative": 6,
+          "neutral": 2
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 35,
+          "positive": 30,
+          "negative": 5,
+          "neutral": 0
+        },
+        {
+          "name": "Aile",
+          "description": "Family friendly",
+          "total_mentioned": 43,
+          "positive": 38,
+          "negative": 3,
+          "neutral": 2
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Parking",
+        "Air conditioning",
+        "Bar",
+        "Restaurant",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Child-friendly"
+      ],
+      "eco_certified": true
+    },
+    {
+      "type": "hotel",
+      "name": "Twins Hotel Ankara",
+      "description": "İş merkezi ve otopark imkanlarına sahip rahat otelde bazıları şömineli olan sade odalar.",
+      "link": "http://www.twinshotel.net/",
+      "property_token": "ChkIpfGslo2piMM2Gg0vZy8xMW42NHl3ejh2EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChkIpfGslo2piMM2Gg0vZy8xMW42NHl3ejh2EAE&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.898928,
+        "longitude": 32.865629
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "11:00",
+      "rate_per_night": {
+        "lowest": "₺1.900",
+        "extracted_lowest": 1900,
+        "before_taxes_fees": "₺1.900",
+        "extracted_before_taxes_fees": 1900
+      },
+      "total_rate": {
+        "lowest": "₺7.599",
+        "extracted_lowest": 7599,
+        "before_taxes_fees": "₺7.599",
+        "extracted_before_taxes_fees": 7599
+      },
+      "nearby_places": [
+        {
+          "name": "Kuğulu Park",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "9 dk."
+            }
+          ]
+        },
+        {
+          "name": "Arjantin Caddesi",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "4 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "42 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa. 8 dk."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/nnZBv7ASjN3-QODkz7mnqTDdoIw99hvJTStj_QDEDhJTGD0jMXS03bCkcKzirBJXJtM5cOdVKWdO4ZraiPvX3_MdMDMjaiC5vdhFphUprowQfYAX4dUyOwCWhcdc1bQbmwQBGk0hSDB5tflcXkeqOjCCKcWwMA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/73000000/72920000/72911400/72911354/7fd46c78_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/Mq-lnMPR7S90fCZq9UhhOtZSmsSzET2zYlQwpcUKcNML9RPZhzvSp_cYV7NaRU7VBmLwFCVFzH8OcoxfkydlLpl24ShtQMSlQSNl7FltpcoBnOHsZN537kBO6zZfuf_DhtTausVLZGSXD0IRxDEVT9wMe_bFqw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/73000000/72920000/72911400/72911354/169cb805_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/v-qG-ABFIWXJFYJanoYOmZLmPv5bPlZk0X7U9eS8kulwyeKxfYH5QvzHrDdi-SyX75OSi56r_hgLbExX_iQpDRMwVAIPPNY4jXt4EA30n5_Z4EBcFjwPeoAuc6TqX4NCnabDXDZSODSwCYIYxmSAHJYNa__4uAw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/91/915205/915205a_hb_w_001.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/dwam5_OOCyn33ZGyFntAIz1J9gsOqAveMXhQSz7NMbNy_imOEB2v-V63Miex5yda_9i8mQvW0YNkaA-6u4XycnM5VY503AR6YTDWTp2M26AoPXd_JUMSeaCQk3lu8VDxDNnefmuLNrkac-VO3DZJT7b2lYjkLMk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/91/915205/915205a_hb_w_019.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/ya-Dq9UjpTDyWyAJKzNxVHvR6KEAiYEi1q-PufhPJnncZIKRepJpg3gBuVsOUz-sh1Neg93U0aIhGJ2PIcC5YDh7Vtk46yMFgSEYW8jPeEdgmq-SKv5QO59h_DFaU7lVip9Rk3W82laXsSRz0K_iCECFyBo2csw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/91/915205/915205a_hb_w_012.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/aVRp4mEOy6Hly-6YEcpeUK-8vqK2pUlG9L4GsGTkGK6xZMWeJ0R84aO8xIxSYPAvciKkhohXKLFiDk37hJa4s5XpqmMp7RCgu0Clbg0NyuriysxRA1UTa86-hxS8SSPW3f_0bxqG05RHYb1VCdpdNKlIL0QLhuk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/73000000/72920000/72911400/72911354/9af0c747_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/vAqugh-WFPMVmrdwuuDmVBu4RXKglHoTxpaNhucY92VWnLXtlzQFYsiTqxRhP7OG6KtTedocQsKqVTjIZos7i5qH2i-x-GtI-aAO3TuMQytZLA3jOGFNlGw8uAlBOTUQInRwSPumYhTnpT24N86vqCb6FqYwqQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/73000000/72920000/72911400/72911354/39d73259_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/gsZXR7HM3w-pWgF8ylIry8VZqa0KI-iksmJHXGgzfnvr8VVEZDSwml4_nLOmD2coJ7HsFDAnpsdhHg_A26DHdQFdXBH0_hZWDhAzWy6Y2B2xrSRsOJFszxw0apozoIYLG-GqqVikzfZHXY4_qe-ttAM5gevUwUk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/91/915205/915205a_hb_w_007.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/O5qX0K8Qdqiv4JRWOmAeOIyz7FFicLWAXO9QCe6r9T-tH9TBvIElWsjotPzzaZKYw6A4WNBD9tJPluh_v8oTJ0ZGOSh0GmF6HVVMlPXBlYvEcJlqN0Oo3IN5z7j6pK0Eykqto7UGoX95fJE5J-Wa2Em6rNEkJss=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/91/915205/915205a_hb_w_003.jpg"
+        }
+      ],
+      "overall_rating": 4.2,
+      "reviews": 677,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 464
+        },
+        {
+          "stars": 4,
+          "count": 74
+        },
+        {
+          "stars": 3,
+          "count": 44
+        },
+        {
+          "stars": 2,
+          "count": 30
+        },
+        {
+          "stars": 1,
+          "count": 65
+        }
+      ],
+      "location_rating": 4.1,
+      "reviews_breakdown": [
+        {
+          "name": "Hizmet",
+          "description": "Service",
+          "total_mentioned": 314,
+          "positive": 288,
+          "negative": 18,
+          "neutral": 8
+        },
+        {
+          "name": "Konum",
+          "description": "Location",
+          "total_mentioned": 154,
+          "positive": 131,
+          "negative": 11,
+          "neutral": 12
+        },
+        {
+          "name": "Kahvaltı",
+          "description": "Breakfast",
+          "total_mentioned": 83,
+          "positive": 50,
+          "negative": 20,
+          "neutral": 13
+        },
+        {
+          "name": "Temizlik",
+          "description": "Cleanliness",
+          "total_mentioned": 201,
+          "positive": 159,
+          "negative": 36,
+          "neutral": 6
+        },
+        {
+          "name": "Mülk",
+          "description": "Property",
+          "total_mentioned": 235,
+          "positive": 182,
+          "negative": 39,
+          "neutral": 14
+        },
+        {
+          "name": "İş",
+          "description": "Business",
+          "total_mentioned": 34,
+          "positive": 29,
+          "negative": 3,
+          "neutral": 2
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Pet-friendly",
+        "Restaurant",
+        "Full-service laundry"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Sky Hill Hotel",
+      "link": "https://www.skyhillhotel.com/",
+      "property_token": "ChoIityYw4jxj8WvARoNL2cvMTFsY2Nud3lzMBAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChoIityYw4jxj8WvARoNL2cvMTFsY2Nud3lzMBAB&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.917198500000005,
+        "longitude": 32.8575777
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "11:00",
+      "rate_per_night": {
+        "lowest": "₺2.254",
+        "extracted_lowest": 2254,
+        "before_taxes_fees": "₺2.107",
+        "extracted_before_taxes_fees": 2107
+      },
+      "total_rate": {
+        "lowest": "₺9.015",
+        "extracted_lowest": 9015,
+        "before_taxes_fees": "₺8.428",
+        "extracted_before_taxes_fees": 8428
+      },
+      "nearby_places": [
+        {
+          "name": "Kocatepe Camii",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "7 dk."
+            }
+          ]
+        },
+        {
+          "name": "Meşrutiyet Caddesi",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "36 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "55 dk."
+            }
+          ]
+        },
+        {
+          "name": "DR. FALAFEL",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 dk."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNTip6gIaD0iHWt9EQHG-SEXrXL9GD6oY3BwOdj=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNTip6gIaD0iHWt9EQHG-SEXrXL9GD6oY3BwOdj=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMbOSIHLmowNjGvvftLkfJDFxUmFsQfxDtjMdrN=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMbOSIHLmowNjGvvftLkfJDFxUmFsQfxDtjMdrN=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO-oR9issRg59vuf6u4ijjahVtyfI3uLiB7GuFs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO-oR9issRg59vuf6u4ijjahVtyfI3uLiB7GuFs=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNTWqdAONHknpFi_fu8oEhNN3TXd4IOgYgrpFhO=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNTWqdAONHknpFi_fu8oEhNN3TXd4IOgYgrpFhO=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNGoJfuhXK15f3t_RUWEMpvtS0ATliPItXkFX2p=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNGoJfuhXK15f3t_RUWEMpvtS0ATliPItXkFX2p=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNcUJAK7EEpdz-W4NJ9uMcVleu4ty_qtL38zAdy=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNcUJAK7EEpdz-W4NJ9uMcVleu4ty_qtL38zAdy=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMhZWTL50xDjiYOd22KaS3PBrYH2BCzYRnc3lZ4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMhZWTL50xDjiYOd22KaS3PBrYH2BCzYRnc3lZ4=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPb9YTtDeygtiy8s6aVw46FumusA-Q9aLipY7at=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPb9YTtDeygtiy8s6aVw46FumusA-Q9aLipY7at=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNOVz7ODQ7IeFIylutZkZpNPjkIiXmH5gN4Rrwl=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNOVz7ODQ7IeFIylutZkZpNPjkIiXmH5gN4Rrwl=s10000"
+        }
+      ],
+      "overall_rating": 4.7,
+      "reviews": 713,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 619
+        },
+        {
+          "stars": 4,
+          "count": 38
+        },
+        {
+          "stars": 3,
+          "count": 12
+        },
+        {
+          "stars": 2,
+          "count": 7
+        },
+        {
+          "stars": 1,
+          "count": 37
+        }
+      ],
+      "location_rating": 4.6,
+      "reviews_breakdown": [
+        {
+          "name": "Kahvaltı",
+          "description": "Breakfast",
+          "total_mentioned": 150,
+          "positive": 131,
+          "negative": 10,
+          "neutral": 9
+        },
+        {
+          "name": "Konum",
+          "description": "Location",
+          "total_mentioned": 225,
+          "positive": 209,
+          "negative": 2,
+          "neutral": 14
+        },
+        {
+          "name": "Hizmet",
+          "description": "Service",
+          "total_mentioned": 379,
+          "positive": 366,
+          "negative": 8,
+          "neutral": 5
+        },
+        {
+          "name": "Otopark",
+          "description": "Parking",
+          "total_mentioned": 57,
+          "positive": 51,
+          "negative": 4,
+          "neutral": 2
+        },
+        {
+          "name": "Aile",
+          "description": "Family friendly",
+          "total_mentioned": 74,
+          "positive": 69,
+          "negative": 1,
+          "neutral": 4
+        },
+        {
+          "name": "Çiftler",
+          "description": "Couple friendly",
+          "total_mentioned": 15,
+          "positive": 3,
+          "negative": 9,
+          "neutral": 3
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Smoke-free property"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "The Green Park Hotel Ankara",
+      "description": "Samimi oda ve süitlerin yanı sıra 2 restoran, kapalı havuz ve kongre merkezi sunan şık otel.",
+      "link": "http://www.thegreenparkankara.com/",
+      "property_token": "ChoI4KSPuY-pqbjRARoNL2cvMTFiNzJqODNxbRAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChoI4KSPuY-pqbjRARoNL2cvMTFiNzJqODNxbRAB&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.903114599999995,
+        "longitude": 32.8124201
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "12:00",
+      "rate_per_night": {
+        "lowest": "₺3.519",
+        "extracted_lowest": 3519,
+        "before_taxes_fees": "₺3.199",
+        "extracted_before_taxes_fees": 3199
+      },
+      "total_rate": {
+        "lowest": "₺14.076",
+        "extracted_lowest": 14076,
+        "before_taxes_fees": "₺12.797",
+        "extracted_before_taxes_fees": 12797
+      },
+      "nearby_places": [
+        {
+          "name": "Atatürk Orman Çiftliği",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 dk."
+            }
+          ]
+        },
+        {
+          "name": "Cumhurbaşkanlığı İletişim Başkanlığı",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "5 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "38 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa. 12 dk."
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5 yıldızlı otel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/__QdzELl2_Rfm3tODFS_dJLSSbG9j0rZs1J6tcoTIwKyyFDA6hhDnUdSUWmz-TJAnyk4uWUNvLGdKwk0WMYQURMhthRoXBGLy5GQzYzpLApbbOErVOq1EVnQJRCP2QxVDDP8FL_RGTXDikXtxJdHx-cDsla8riI=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/b4/ba/2d/the-green-park-hotel.jpg?w=2100&h=1400&s=1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMMX5fu5Cx-VMeTs1Z-Hw9vuKqJwRiFXGrEuBY6=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMMX5fu5Cx-VMeTs1Z-Hw9vuKqJwRiFXGrEuBY6=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN5hZ0z3RR8YyklT4xjJQUj0fJ0eCcZEp6efcD-=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN5hZ0z3RR8YyklT4xjJQUj0fJ0eCcZEp6efcD-=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/YiknWgcnVh2zLRHyJpqI1lM2O-OFm9oUU6EY_Z2n0euWFjwYCXXy83EB3qfRsaWt1c9L4IytkYqoPt1zfSVA0BDn02dp9jwB1YwYthkvbEsduqv07TiylYzwP02ODfi1P60g1mo3bMyyj--1V6jG0mWY2s8A-A=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/11000000/10270000/10260500/10260462/1d035981_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNP6RAvjNrVd6nxp5otOrLWgICvVu7DwOKYHxZB=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNP6RAvjNrVd6nxp5otOrLWgICvVu7DwOKYHxZB=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPdhreLOovdCgOaFlQIBaeu3Ck-MFk5uFi5_ASZ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPdhreLOovdCgOaFlQIBaeu3Ck-MFk5uFi5_ASZ=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPYxB8EqqCWqqUfzsVVWO2mRpD1aec9t5oG-_Gf=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPYxB8EqqCWqqUfzsVVWO2mRpD1aec9t5oG-_Gf=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOLRCWJXpF2aIln26Haksg87WMcXxRU3UmVyXQO=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOLRCWJXpF2aIln26Haksg87WMcXxRU3UmVyXQO=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOBecvsHLFFZ6BBfz6cXav6CUgmLKkJgGNDYsOt=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOBecvsHLFFZ6BBfz6cXav6CUgmLKkJgGNDYsOt=s10000"
+        }
+      ],
+      "overall_rating": 4.1,
+      "reviews": 5264,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 2914
+        },
+        {
+          "stars": 4,
+          "count": 1173
+        },
+        {
+          "stars": 3,
+          "count": 533
+        },
+        {
+          "stars": 2,
+          "count": 192
+        },
+        {
+          "stars": 1,
+          "count": 452
+        }
+      ],
+      "location_rating": 4.1,
+      "reviews_breakdown": [
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 71,
+          "positive": 43,
+          "negative": 23,
+          "neutral": 5
+        },
+        {
+          "name": "Sağlıklı Yaşam",
+          "description": "Wellness",
+          "total_mentioned": 63,
+          "positive": 39,
+          "negative": 17,
+          "neutral": 7
+        },
+        {
+          "name": "Erişilebilirlik",
+          "description": "Accessibility",
+          "total_mentioned": 77,
+          "positive": 15,
+          "negative": 51,
+          "neutral": 11
+        },
+        {
+          "name": "İş",
+          "description": "Business",
+          "total_mentioned": 190,
+          "positive": 114,
+          "negative": 44,
+          "neutral": 32
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 178,
+          "positive": 91,
+          "negative": 74,
+          "neutral": 13
+        },
+        {
+          "name": "Spa",
+          "description": "Spa",
+          "total_mentioned": 54,
+          "positive": 37,
+          "negative": 13,
+          "neutral": 4
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Indoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness centre",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Full-service laundry",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Park 12 Apart Otel",
+      "description": "Rahat odalardaki birçok hoş ayrıntı konaklama yerinin konforunu arttırmaktadır. Odaların sahip olduğu donanıma televizyon ve kablosuz internet bağlantısı dâhildir. Banyolarda saç kurutma makinesi mevcuttur.",
+      "link": "http://www.otelz.com/otel/park-12?to=1585&cid=0",
+      "property_token": "ChkI5rnDxZbvzO8vGg0vZy8xMWM2Y3hobGJtEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChkI5rnDxZbvzO8vGg0vZy8xMWM2Y3hobGJtEAE&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.8912166,
+        "longitude": 32.870137299999996
+      },
+      "check_in_time": "13:00",
+      "check_out_time": "11:00",
+      "rate_per_night": {
+        "lowest": "₺1.664",
+        "extracted_lowest": 1664,
+        "before_taxes_fees": "₺1.664",
+        "extracted_before_taxes_fees": 1664
+      },
+      "total_rate": {
+        "lowest": "₺6.657",
+        "extracted_lowest": 6657,
+        "before_taxes_fees": "₺6.657",
+        "extracted_before_taxes_fees": 6657
+      },
+      "nearby_places": [
+        {
+          "name": "Kuğulu Park",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "5 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "10 dk."
+            }
+          ]
+        },
+        {
+          "name": "Kız Kulesi Sokak",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "3 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "41 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa. 11 dk."
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3 yıldızlı otel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPak3LPYfQ_jr9B4YwSMN6vZSM5-YjJxpu1KlU8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPak3LPYfQ_jr9B4YwSMN6vZSM5-YjJxpu1KlU8=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNFJGNXnvWN2rwHG0QyTimE_FGx9Uqtny-H_MHt=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNFJGNXnvWN2rwHG0QyTimE_FGx9Uqtny-H_MHt=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOB_KrEyjXxVDwciADWu0x4BtFXaZaoWOO2R45q=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOB_KrEyjXxVDwciADWu0x4BtFXaZaoWOO2R45q=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNCuxGueIBGoAsmcnvItHXW6HUopYOE_Jsdkq4R=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNCuxGueIBGoAsmcnvItHXW6HUopYOE_Jsdkq4R=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNAwsjv6denitmH_oxi_IytHgupW4tCLu2mgTtR=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNAwsjv6denitmH_oxi_IytHgupW4tCLu2mgTtR=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNZYENndvvvwU08Bzq1CwnqMd1Kh6ULOTHf-0N9=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNZYENndvvvwU08Bzq1CwnqMd1Kh6ULOTHf-0N9=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOVZli3NuT9j3g7MH3UrUKx0uIkq4hgyeLgeSX7=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOVZli3NuT9j3g7MH3UrUKx0uIkq4hgyeLgeSX7=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMep4yKo0LdKA3Ftu-2NZLTtzOln2RBQlXzD5Tb=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMep4yKo0LdKA3Ftu-2NZLTtzOln2RBQlXzD5Tb=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPDrbNAM4ri3sp-QL6ZhtT2KbZaK1nuuRsvkU-T=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPDrbNAM4ri3sp-QL6ZhtT2KbZaK1nuuRsvkU-T=s10000"
+        }
+      ],
+      "overall_rating": 3.8,
+      "reviews": 262,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 137
+        },
+        {
+          "stars": 4,
+          "count": 40
+        },
+        {
+          "stars": 3,
+          "count": 28
+        },
+        {
+          "stars": 2,
+          "count": 16
+        },
+        {
+          "stars": 1,
+          "count": 41
+        }
+      ],
+      "location_rating": 3.5,
+      "reviews_breakdown": [
+        {
+          "name": "Temizlik",
+          "description": "Cleanliness",
+          "total_mentioned": 53,
+          "positive": 34,
+          "negative": 18,
+          "neutral": 1
+        },
+        {
+          "name": "Erişilebilirlik",
+          "description": "Accessibility",
+          "total_mentioned": 5,
+          "positive": 0,
+          "negative": 4,
+          "neutral": 1
+        },
+        {
+          "name": "Hizmet",
+          "description": "Service",
+          "total_mentioned": 49,
+          "positive": 41,
+          "negative": 5,
+          "neutral": 3
+        },
+        {
+          "name": "İş",
+          "description": "Business",
+          "total_mentioned": 9,
+          "positive": 9,
+          "negative": 0,
+          "neutral": 0
+        },
+        {
+          "name": "Banyo",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 14,
+          "positive": 4,
+          "negative": 10,
+          "neutral": 0
+        },
+        {
+          "name": "Konum",
+          "description": "Location",
+          "total_mentioned": 21,
+          "positive": 19,
+          "negative": 1,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Wi-Fi",
+        "Free parking",
+        "Kitchen in some rooms",
+        "Full-service laundry"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Metropolitan Hotels Ankara",
+      "description": "Lüks odalar, süitler, şık restoran, kapalı yüzme havuzu ve gösterişli spa.",
+      "link": "https://www.metropolitanhotels.com.tr/ankara",
+      "property_token": "ChgI25GAi-yQgLDjARoLL2cvMXRndjlid3QQAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChgI25GAi-yQgLDjARoLL2cvMXRndjlid3QQAQ&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.902412999999996,
+        "longitude": 32.814872099999995
+      },
+      "check_in_time": "14:00",
+      "rate_per_night": {
+        "lowest": "₺3.891",
+        "extracted_lowest": 3891,
+        "before_taxes_fees": "₺3.474",
+        "extracted_before_taxes_fees": 3474
+      },
+      "total_rate": {
+        "lowest": "₺15.562",
+        "extracted_lowest": 15562,
+        "before_taxes_fees": "₺13.895",
+        "extracted_before_taxes_fees": 13895
+      },
+      "nearby_places": [
+        {
+          "name": "Anıtkabir",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "6 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ö.Harekat Şehitleri Anadolu İmam Hatip Lisesi",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "3 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "34 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa. 11 dk."
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5 yıldızlı otel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/efHsiYM9_DNlW4p_Yk_SjlFcEznVz-cMXBfe-XlYJAmDmE5o42sMv3eT5ac6m69VeSXSmpp9tbnWmuoEsj0rIiAJGktROfYEG8DgagLxa-eqMhteoveQiRe730y4SQe7zpPKclLhcq6D3qvaeHdCdsN6i9ImteE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/30/301558/301558a_hb_r_017.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNm0Wr0mO2P6rwNB6-u09hS4x--04nBI-C1zMdF=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNm0Wr0mO2P6rwNB6-u09hS4x--04nBI-C1zMdF=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO4cmGhVDcxU0ff_BGVTUZdq8acrWZhSNUMROzW=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO4cmGhVDcxU0ff_BGVTUZdq8acrWZhSNUMROzW=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPEW_A7W5jK5f--sEB4pxwK5XT38tkAE-9GqFOb=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPEW_A7W5jK5f--sEB4pxwK5XT38tkAE-9GqFOb=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/uwWCyUgSzRHmo96avToXQssWlSYy1yQPYgRY6-x8-1BtXjM0mUejR1NEpv3yfKFvDRl5Y0AQKPq1DG2GWKE4htq8OaITjrKegS3cj-imqvmvoddvdOrAWYKLKByK0HDAE65DKIJxPRTpi-0Fh8TiEDJctvkI3A=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/3000000/2610000/2607100/2607020/1c99ac52_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/r78dLdf_xCkC26FDRfKkhUmjUsnOATJD5mnLePQQPmKoHtEu7EiPTeJSVd5zDRukgQRHabRqeDExNlA5eGHT7jz7ZEhomHdm3sJVYyzMcypQljQiflzmgqE9Q0jbOmrX0ewqnnM-0IGJQB4nRb7Gd7YbGSeYnw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/3000000/2610000/2607100/2607020/d4f6cc4c_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN38eSsqV1FGQogJdeDgSvmZhYAzY1WgDfquOXc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN38eSsqV1FGQogJdeDgSvmZhYAzY1WgDfquOXc=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPNdbwyQL273Jrh9i4JfluO5CtH1GHssCXFIgub=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPNdbwyQL273Jrh9i4JfluO5CtH1GHssCXFIgub=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/dgWz4nYe2Kkayy6DR719C4NyP-sD0Bh2qLJiCT8RZI29MglCUdz3pt5c2tOk1hPbi9S3XwAUBNCqx78qzKlEGDzQReSVpjWr3VIEXhN-aO6Puae62BAk0iC7McR8Gheaf43VFi2yEm081Wif_ezVSUuo3kgPoNs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/30/301558/301558a_hb_r_019.jpg"
+        }
+      ],
+      "overall_rating": 4.4,
+      "reviews": 1620,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 1037
+        },
+        {
+          "stars": 4,
+          "count": 351
+        },
+        {
+          "stars": 3,
+          "count": 110
+        },
+        {
+          "stars": 2,
+          "count": 37
+        },
+        {
+          "stars": 1,
+          "count": 85
+        }
+      ],
+      "location_rating": 4.0,
+      "reviews_breakdown": [
+        {
+          "name": "Kahvaltı",
+          "description": "Breakfast",
+          "total_mentioned": 107,
+          "positive": 74,
+          "negative": 27,
+          "neutral": 6
+        },
+        {
+          "name": "Sağlıklı Yaşam",
+          "description": "Wellness",
+          "total_mentioned": 18,
+          "positive": 6,
+          "negative": 11,
+          "neutral": 1
+        },
+        {
+          "name": "Bar",
+          "description": "Bar or lounge",
+          "total_mentioned": 29,
+          "positive": 10,
+          "negative": 12,
+          "neutral": 7
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 15,
+          "positive": 4,
+          "negative": 10,
+          "neutral": 1
+        },
+        {
+          "name": "Çiftler",
+          "description": "Couple friendly",
+          "total_mentioned": 11,
+          "positive": 7,
+          "negative": 2,
+          "neutral": 2
+        },
+        {
+          "name": "Hizmet",
+          "description": "Service",
+          "total_mentioned": 235,
+          "positive": 205,
+          "negative": 20,
+          "neutral": 10
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Indoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness centre",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Business centre",
+        "Child-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Ankara Gold Hotel",
+      "description": "Rahat oda ve süitlerin yanı sıra bar, restoran ve ücretsiz kahvaltı bulunan sade otel.",
+      "link": "http://www.ankaragoldhotel.com/",
+      "property_token": "ChoI2uLfhprukqzhARoNL2cvMTFqMTl5d2dxMxAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChoI2uLfhprukqzhARoNL2cvMTFqMTl5d2dxMxAB&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.912549,
+        "longitude": 32.855862
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "12:00",
+      "rate_per_night": {
+        "lowest": "₺2.078",
+        "extracted_lowest": 2078,
+        "before_taxes_fees": "₺2.078",
+        "extracted_before_taxes_fees": 2078
+      },
+      "total_rate": {
+        "lowest": "₺8.311",
+        "extracted_lowest": 8311,
+        "before_taxes_fees": "₺8.311",
+        "extracted_before_taxes_fees": 8311
+      },
+      "deal": "Normalden %23 daha az",
+      "deal_description": "Deal",
+      "nearby_places": [
+        {
+          "name": "Anıtkabir",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 dk."
+            }
+          ]
+        },
+        {
+          "name": "Akay Kavşağı",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "35 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa."
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3 yıldızlı otel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/mUCluI-YV--czhtn4NNqZ7HuW79tZjW3cGm2HBG01e4v1fyz2D-jbiW43UbOXFycRpDK11CKR9Bn72747E5Cexi7vKYpmzUqtuFswHrcZbyto-jdlZGuVFnCdsHauZfZTYMImZoPe9kekL2DCL6eVTI1oczlImw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/23000000/22210000/22202200/22202142/a52db4d6_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOc6Q7xJ7Nd0arZlvSkSrdg0xeNIL9321hkOinz=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOc6Q7xJ7Nd0arZlvSkSrdg0xeNIL9321hkOinz=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO2kuMO41Bs6sTWN28bsoJ3S98NOgqDzXlRuyMZ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO2kuMO41Bs6sTWN28bsoJ3S98NOgqDzXlRuyMZ=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/rdMYea9F3xDWC0Def4KSoaZleiQR3Fi4kZb_Qao7LkkI93aNxMiNX3aRsa_6S2KSFw6bN4w2dH1lAvjG79cZFXK7RjgkAuzOoO8KOuBu4XuuutTDkuaqDyMxi9DkrfdiJJnMT5B5L3athEyCEjqPSMTvRAJ0-g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/41/f2/46/ankara-gold-otel.jpg?w=2100&h=1400&s=1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNpk0ow9bt-FR7ypdKrDfVNXEqrn9s4Shaee16B=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNpk0ow9bt-FR7ypdKrDfVNXEqrn9s4Shaee16B=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMVeI0mHbfhzgSzKtGOzaN4joQxmppBahpK7zUg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMVeI0mHbfhzgSzKtGOzaN4joQxmppBahpK7zUg=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOqdiGFhxMoiVB6ZRK-iM_sQAyabO_AbgzyRJ7e=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOqdiGFhxMoiVB6ZRK-iM_sQAyabO_AbgzyRJ7e=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPCgOqnQ3j6DuxDi1_VN4LkPxiW7mHt9ZwHXRCY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPCgOqnQ3j6DuxDi1_VN4LkPxiW7mHt9ZwHXRCY=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOvItCKAlOXbCVpw0a8Itozysp4gZPQIenNLX8T=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOvItCKAlOXbCVpw0a8Itozysp4gZPQIenNLX8T=s10000"
+        }
+      ],
+      "overall_rating": 3.9,
+      "reviews": 443,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 210
+        },
+        {
+          "stars": 4,
+          "count": 103
+        },
+        {
+          "stars": 3,
+          "count": 56
+        },
+        {
+          "stars": 2,
+          "count": 31
+        },
+        {
+          "stars": 1,
+          "count": 43
+        }
+      ],
+      "location_rating": 4.0,
+      "reviews_breakdown": [
+        {
+          "name": "Kahvaltı",
+          "description": "Breakfast",
+          "total_mentioned": 38,
+          "positive": 26,
+          "negative": 6,
+          "neutral": 6
+        },
+        {
+          "name": "Konum",
+          "description": "Location",
+          "total_mentioned": 58,
+          "positive": 49,
+          "negative": 5,
+          "neutral": 4
+        },
+        {
+          "name": "Temizlik",
+          "description": "Cleanliness",
+          "total_mentioned": 90,
+          "positive": 62,
+          "negative": 27,
+          "neutral": 1
+        },
+        {
+          "name": "Banyo",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 28,
+          "positive": 7,
+          "negative": 19,
+          "neutral": 2
+        },
+        {
+          "name": "Hizmet",
+          "description": "Service",
+          "total_mentioned": 86,
+          "positive": 63,
+          "negative": 20,
+          "neutral": 3
+        },
+        {
+          "name": "Otopark",
+          "description": "Parking",
+          "total_mentioned": 12,
+          "positive": 10,
+          "negative": 2,
+          "neutral": 0
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Restaurant",
+        "Room service",
+        "Full-service laundry"
+      ]
+    },
+    {
+      "type": "vacation rental",
+      "name": "Milenyum House Suite - Deluxe Suite",
+      "link": "https://www.bluepillow.com/search?p_id=589df4747c00cb10c8da4727&dest=eps&cat=Apartment&accomodationids=639a19fad63fe20c7662eed5",
+      "property_token": "ChkQt_bA_62V-OU9Gg0vZy8xMXd4eDNyZ21wEAI",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChkQt_bA_62V-OU9Gg0vZy8xMXd4eDNyZ21wEAI&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.89970016479492,
+        "longitude": 32.87765884399414
+      },
+      "check_in_time": "12:00",
+      "check_out_time": "12:00",
+      "rate_per_night": {
+        "lowest": "₺2.342",
+        "extracted_lowest": 2342,
+        "before_taxes_fees": "₺2.342",
+        "extracted_before_taxes_fees": 2342
+      },
+      "total_rate": {
+        "lowest": "₺9.367",
+        "extracted_lowest": 9367,
+        "before_taxes_fees": "₺9.367",
+        "extracted_before_taxes_fees": 9367
+      },
+      "prices": [
+        {
+          "source": "Bluepillow.com",
+          "logo": "https://www.gstatic.com/travel-hotels/branding/190ff319-d0fd-4c45-bfc8-bad6f5f395f2.png",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺2.342",
+            "extracted_lowest": 2342
+          }
+        }
+      ],
+      "nearby_places": [
+        {
+          "name": "Koza Sokak",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "42 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa. 21 dk."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/V6K8DJWwlOTY0n2kN___8BTI7LS4Z_BtMZ6R8GaCxfPkMwXhN5dAGzCLOyG8CDQ_NwS5T76Af5CFc8wHE2vwQMWm4n8gxtK6UK_eVTm6PeonVEWrfwW1Nw420IXQGYBVq7CGR7xoVHJUby8vUWtBI4bZD8U=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://metasearch-cdn.azureedge.net/remote/i.travelapi.com/lodging/78000000/77130000/77125100/77125090/5a4f4246_z.jpg?w=1024&h=750&mode=crop&scale=both&anchor=middlecenter"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/9hV8d3vRPC2UqUTIdPRjK7lRqYKrbBn8QV1fOl-z-V4x_yDxLHAyPqNtgSyUHY7fxpPMpJEkZAUwMivcBeX-2yFo4CbcSd_1091rjRPR9BAQ6m4EGbNeJR9ydAQZAYm_9I2o6jcf06lzhtHahd4JfUzuGfNxQQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://metasearch-cdn.azureedge.net/remote/i.travelapi.com/lodging/78000000/77130000/77125100/77125090/096836ee_z.jpg?w=1024&h=750&mode=crop&scale=both&anchor=middlecenter"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/ah2Eb7kqawmoM3ig5bviYmnED0vR0kR7eiFOKU_fC3OKflZgE53WsKY8hQvOTz-Lc-KsVPiTH9MpzBGuK1ymKauIheLOcBETe_-DH6WaXZ_U4d8W_H3MIOzueFvt9ZkjeBNtu67olHnb3t_Er5xJZlMnYH_VZQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://metasearch-cdn.azureedge.net/remote/i.travelapi.com/lodging/78000000/77130000/77125100/77125090/8582b027_z.jpg?w=1024&h=750&mode=crop&scale=both&anchor=middlecenter"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/oD-zX9ke3wfECPfZIo-VRjvSvgKEFKRwPTf2zLPmVn0w7-0c_gLORfyMRGKGwYarwTBUTdOo2yOb-syJhpRB9laGRNWm61b9u2-j9mFEnB3YoiUY17l8xCMj3ZsLxwA_21fTGYE1fLG9cGq5DWACCMAJTCoYTq0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://metasearch-cdn.azureedge.net/remote/i.travelapi.com/lodging/78000000/77130000/77125100/77125090/d5d20d15_z.jpg?w=1024&h=750&mode=crop&scale=both&anchor=middlecenter"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/IjQfkXgtC246pAo7QOenuCA_eF3XSc9fJit0rKO7iQDHpkpc-a_gL--aaguN_Q78KQwisNZNoTTqRvYoijoNL-lw1YBWe1ZQo4R9WAi1AixP4UEeJc5dGzu698Gq3t5jMqRWH5AqxL1fPwS3vaWarNAxV_mZZg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://metasearch-cdn.azureedge.net/remote/i.travelapi.com/lodging/78000000/77130000/77125100/77125090/7b335379_z.jpg?w=1024&h=750&mode=crop&scale=both&anchor=middlecenter"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/y0hp0JmDumGWIVR06TYFU6rpV-yq14eYhXlu3VhTXDdyoLKITaEUWbCJMJi8AiaxVTa3zMx-VQdzP0VGndS5gvTVgcv0puiwrETePZPwfWy_iF2qw7ZvNqHTrkpGXNIc8VWm9GoXStlvAWzksJJv8ZIRXvaPpg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://metasearch-cdn.azureedge.net/remote/i.travelapi.com/lodging/78000000/77130000/77125100/77125090/9c22b304_z.jpg?w=1024&h=750&mode=crop&scale=both&anchor=middlecenter"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/_lnvkBQNWQ1lo6oqlYzwHBxgcqymg68Zah2ADGIjqPKf29JmZKl0H_MhX6hWFyvZgPzUnojkEc50EHixowZ6n_i0awniaWkEZ0W26cQx4SWTv7R46l0NAFZ8gEETTf2-PvoqMWMG9IMJWUGbf9wqTAkOaN6agA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://metasearch-cdn.azureedge.net/remote/i.travelapi.com/lodging/78000000/77130000/77125100/77125090/0b792581_z.jpg?w=1024&h=750&mode=crop&scale=both&anchor=middlecenter"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/x768VYrqbsEMFc7g1TE47LZZkeCzyJq3FRmHPkBVlCIC4t5wzdTdFI5uiSSRab4k1at5xKgC1XGA5Dv3EvbnIcl18uy6uoN-5ETiGuesnX7enE_vYZvR1S3f9Ij6TRA1hWGzi7Wte0V2Khjf60bhKFBsfPbcuQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://metasearch-cdn.azureedge.net/remote/i.travelapi.com/lodging/78000000/77130000/77125100/77125090/6ae9848f_z.jpg?w=1024&h=750&mode=crop&scale=both&anchor=middlecenter"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/MChyYfQ-Pz9QWk9FbFoAHUfi9Efjb44IWBrh0l9M3IalmBCbhEJiV3PIJ28_fOFZ3fxx6a3dnphSeFiDDSE2Kwy_WXtFPkBiR5Cs9N9vOvng2emOeDEKk4JCxqQJNkcbUCtAEXNycDzIjUP-5vNONX3eACoZSg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://metasearch-cdn.azureedge.net/remote/i.travelapi.com/lodging/78000000/77130000/77125100/77125090/fa1c6d6f_z.jpg?w=1024&h=750&mode=crop&scale=both&anchor=middlecenter"
+        }
+      ],
+      "overall_rating": 2,
+      "reviews": 3,
+      "location_rating": 3.2,
+      "amenities": [
+        "Jakuzi",
+        "Fırın",
+        "Ücretsiz park alanı",
+        "Ücretsiz kablosuz bağlantı"
+      ],
+      "excluded_amenities": [
+        "Klima yok",
+        "Havaalanı transferi yok",
+        "Balkon yok",
+        "Çocuklara uygun değil",
+        "Beşik yok",
+        "Asansör yok",
+        "Şömine yok",
+        "Ücretsiz kahvaltı yok",
+        "Spor salonu yok",
+        "Merkezi ısıtma yok",
+        "Kapalı havuz yok",
+        "Ütü masası yok",
+        "Mutfak yok",
+        "Mikrodalga yok",
+        "Açık hava ızgarası yok",
+        "Açık havuz yok",
+        "Evcil hayvana uygun değil",
+        "Bazı alanlarda sigara içilebilir",
+        "Kablolu TV yok",
+        "Çamaşır makinesi yok",
+        "Tekerlekli sandalyeye uygun değil"
+      ],
+      "essential_info": [
+        "Tüm apartman",
+        "2 kişilik",
+        "1 yatak odası",
+        "1 banyo"
+      ]
+    },
+    {
+      "type": "vacation rental",
+      "name": "BROWN",
+      "link": "https://www.bluepillow.com/search?p_id=589df4747c00cb10c8da4727&dest=bkng&cat=Apartment&accomodationids=6582e2a46c560103cb450e1e",
+      "property_token": "ChkQo5Or2LWp_sp-Gg0vZy8xMXZ5ajI5N2hnEAI",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&property_token=ChkQo5Or2LWp_sp-Gg0vZy8xMXZ5ajI5N2hnEAI&q=Ankara",
+      "gps_coordinates": {
+        "latitude": 39.927608489990234,
+        "longitude": 32.82236099243164
+      },
+      "check_in_time": "14:00",
+      "check_out_time": "11:00",
+      "rate_per_night": {
+        "lowest": "₺2.581",
+        "extracted_lowest": 2581,
+        "before_taxes_fees": "₺2.350",
+        "extracted_before_taxes_fees": 2350
+      },
+      "total_rate": {
+        "lowest": "₺10.323",
+        "extracted_lowest": 10323,
+        "before_taxes_fees": "₺9.402",
+        "extracted_before_taxes_fees": 9402
+      },
+      "prices": [
+        {
+          "source": "Bluepillow.com",
+          "logo": "https://www.gstatic.com/travel-hotels/branding/190ff319-d0fd-4c45-bfc8-bad6f5f395f2.png",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "₺2.581",
+            "extracted_lowest": 2581,
+            "before_taxes_fees": "₺2.350",
+            "extracted_before_taxes_fees": 2350
+          }
+        }
+      ],
+      "nearby_places": [
+        {
+          "name": "Bahçelievler",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "7 dk."
+            }
+          ]
+        },
+        {
+          "name": "Ankara Esenboğa Havalimanı",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "33 dk."
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 sa. 6 dk."
+            }
+          ]
+        },
+        {
+          "name": "Kasap Izgara",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "3 dk."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/MzaHBXNlmbNdxoj009w3CoxgUtmFYAs0YORrrPzCEy0qdVytovexuGZHvEaBP0jyRyBxhnrGDeLDrrw5wpqKFoOC0zX6u9ua91g5_GUG6t9oWn0WG3PB0eQBNrDmZ7jrHQ4hi6st6HnMmr9z9nwShK6hHBWqQw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/510805034.jpg?k=a190c596843e3551df10c78b6ae162888a65c33c8769f1c1c929e3e8e76bd3ba&o="
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/FP79RT4u8ggsiJJPGyVkZlpXGOgClmT4i_9iCkMICSaVKgcx0Woa5cbOUI6VxnEDSyw647TqevtaDnNslJVYY8tdUJfbmI2ISbpo0zCLtkKLa5c2wP3AyZggPtg1hwj2gvZd9UkQlPNIScQ78d7EEAvqn58ND7g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/510805038.jpg?k=172dbd51e93e00db9420547f0689c4c3124690b734043f6e3564502d021c0952&o="
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/j3D2AkPKGJievFNlvym1xT7yu22tfgo9SDhMpnB-w0FjW4oLxkXvv-xfeY06jWtbuZIvw9Ogt1-NnQRBt0HiblJqdzc1h7MBVj9LsbtUWioU5sRD9-L3mnKu8rp94xJFKf0bvHPriqYddyORgswJBdx2oOqvhmM=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/513483178.jpg?k=c9e262c5626e2fd80e41e2b31c897f89151ce71fb9836aa1aeeb8d2e815f5d8e&o="
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/OV8pwr4UlVEE4MltC5fTFx80R4k2deLJgyLZlFyndEZzLI5zP4cjHlhbIGVR5Z_cR1sbbxn69PjgDMI4ffirLwJlZg6JBhoEg2CooKzOkQ7VCG24Ffo39xcp9RPZ33z16632pJPsMf0EAGZUvXy033mLj43zWC4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/513482838.jpg?k=73f3bf08c1b367b4bec0113f327fb526dbe4acdd628cafde4ce50eb32961aec1&o="
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/guj_f95KMLHpQVjyKuSR6SJ9i-0GLddlGN9BHOwVWAMyuTrLbe4rVSL-z1bgAvqEHaqFHqiIGVUIyRfh9XAT2JdZRpCVgNpj3plyjsA3GFztysU1YzFhjNqHBM4Fh8_fHfDCF57ZE4WiduDO0E13M_Byiajtpg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/510805007.jpg?k=2c55b6913451fc5160d08a14689908e2bf0baddd16d8462fad6dfd082bfd59f9&o="
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/JECn6_yO8ycMMcBM3XdWFymuhR8J24BvOM-cbBnw3_cNq0BZg3vxUQdyIgm-aDESUkB9z7F_FxXv4P5Xdq9gZECsNX_4mGA06WiywivwUHu-tL0nNxksr5UvyrnMyZtRNY79DqXmZQnPqS00PaABvktUVGXQeg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/510805027.jpg?k=66b6d0b9a92ef428f8600755d2ac6ee53050a55eb948d623e966d85ce6112167&o="
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/Gv9c_Zrg3qWGYecMAO2bhSsLD5-U-yDOFuO4wSavfbhNppg1qOA3FO4bcYi7gTcREZmyhcml6R_sZIbPJBKwjAu8QHGEqOSvcgII-duOWg3Y79KG-WKRt4nHWbK5uRlSze_zAiGOgWw1vX8Eh5YT0o9eTXLR0vw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/510805035.jpg?k=40fb1c9f408e43f6f4065ae568d3cf6af1e81a8eaf1e4106dd20bfac5eaea234&o="
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/-Ho8yPiai-q3kGH9rX8oldRN9Dngs7qBhYXgZmRhsKoUYMf0ieCC0D78pVz7Tzv6Az_bv7eyEt-ddDf0AUB46vPe9dTBcUxev-I3pyJ8Knlw3qXr1k12lfOF2wK0ygrzk9KF_Mev3ZDN5EukKNLA9IEmrgbgcA0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/513482961.jpg?k=6ce6c1285116f2d9c7f5a01e4898b7284f1f3d36f5feb6eb78acbe031ab681a1&o="
+        }
+      ],
+      "location_rating": 3.5,
+      "amenities": [
+        "Klima",
+        "Havaalanı transferi",
+        "Balkon",
+        "Çocuklar için uygun",
+        "Bebek yatağı",
+        "Spor salonu",
+        "Isıtma",
+        "Ütü masası",
+        "Mutfak",
+        "Fırın",
+        "Sigara içilmez",
+        "Kablolu TV",
+        "Çamaşır makinesi",
+        "Ücretsiz park alanı",
+        "Ücretsiz kablosuz bağlantı"
+      ],
+      "excluded_amenities": [
+        "Plaj yok",
+        "Asansör yok",
+        "Şömine yok",
+        "Küvet yok",
+        "Kapalı havuz yok",
+        "Mikrodalga yok",
+        "Açık hava ızgarası yok",
+        "Açık havuz yok",
+        "Veranda yok",
+        "Evcil hayvana uygun değil",
+        "Tekerlekli sandalyeye uygun değil"
+      ],
+      "essential_info": [
+        "Tüm apartman",
+        "2 kişilik",
+        "1 yatak odası",
+        "1 banyo",
+        "1 yatak"
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "current_from": 1,
+    "current_to": 20,
+    "next_page_token": "CBI=",
+    "next": "https://serpapi.com/search.json?adults=2&check_in_date=2025-03-01&check_out_date=2025-03-05&children=0&currency=TRY&engine=google_hotels&gl=tr&hl=tr&next_page_token=CBI%3D&q=Ankara"
+  }
+}

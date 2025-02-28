@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+pydantic-settings
+tenacity
+amadeus
+requests
+google-search-results
